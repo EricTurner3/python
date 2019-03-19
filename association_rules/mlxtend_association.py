@@ -18,6 +18,8 @@ dataset = pd.read_csv("store_data.csv", header=None)
 # Data pro-processing
 # Take the dataset and turn it into a list of lists
 print("Converting dataset into nested list for manipulation..." + "\n")
+
+print(dataset.values)
 records = []
 for i in range(0, len(dataset)):
     records.append([str(dataset.values[i, j]) for j in range(0, 20)])

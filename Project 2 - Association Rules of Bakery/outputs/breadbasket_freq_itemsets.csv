@@ -1,0 +1,115 @@
+support,itemsets
+0.0360927499737698,frozenset(['Alfajores'])
+0.015947959290735496,frozenset(['Baguette'])
+0.005036197670758577,frozenset(['Bakewell'])
+0.3249396705487357,frozenset(['Bread'])
+0.039764977442031266,frozenset(['Brownie'])
+0.10313713146574337,frozenset(['Cake'])
+0.012905256531318854,frozenset(['Chicken Stew'])
+0.4750813136082258,frozenset(['Coffee'])
+0.019305424404574546,frozenset(['Coke'])
+0.054034204175847235,frozenset(['Cookies'])
+0.0389256111635715,frozenset(['Farm House'])
+0.0056657223796034,frozenset(['Focaccia'])
+0.0084985835694051,frozenset(['Frittata'])
+0.014898751442660792,frozenset(['Fudge'])
+0.010492078480747036,frozenset(['Hearty & Seasonal'])
+0.05791627321372364,frozenset(['Hot chocolate'])
+0.014898751442660792,frozenset(['Jam'])
+0.013115098100933795,frozenset(['Jammie Dodgers'])
+0.03829608645472668,frozenset(['Juice'])
+0.0066100094428706326,frozenset(['Keeping It Local'])
+0.061378659112370164,frozenset(['Medialuna'])
+0.014059385164201028,frozenset(['Mineral water'])
+0.03819116566991921,frozenset(['Muffin'])
+0.08551043961808834,frozenset(['Pastry'])
+0.010387157695939566,frozenset(['Salad'])
+0.07134613366907984,frozenset(['Sandwich'])
+0.02885321582205435,frozenset(['Scandinavian'])
+0.034309096632042804,frozenset(['Scone'])
+0.008078900430175218,frozenset(['Smoothies'])
+0.03420417584723534,frozenset(['Soup'])
+0.0180463749868849,frozenset(['Spanish Brunch'])
+0.141643059490085,frozenset(['Tea'])
+0.0060854055188332805,frozenset(['The Nomad'])
+0.015318434581890673,frozenset(['Tiffin'])
+0.03336480956877558,frozenset(['Toast'])
+0.02014479068303431,frozenset(['Truffles'])
+0.005455880809988459,frozenset(['Vegan mincepie'])
+0.010282236911132095,"frozenset(['Alfajores', 'Bread'])"
+0.019515265974189486,"frozenset(['Alfajores', 'Coffee'])"
+0.006714930227678103,"frozenset(['Alfajores', 'Tea'])"
+0.010701920050361977,"frozenset(['Brownie', 'Bread'])"
+0.02318749344245095,"frozenset(['Cake', 'Bread'])"
+0.08939250865596475,"frozenset(['Coffee', 'Bread'])"
+0.01437414751862344,"frozenset(['Cookies', 'Bread'])"
+0.013324939670548736,"frozenset(['Hot chocolate', 'Bread'])"
+0.005036197670758577,"frozenset(['Jam', 'Bread'])"
+0.0073444549365229254,"frozenset(['Juice', 'Bread'])"
+0.01678732556919526,"frozenset(['Medialuna', 'Bread'])"
+0.008078900430175218,"frozenset(['Muffin', 'Bread'])"
+0.02895813660686182,"frozenset(['Pastry', 'Bread'])"
+0.01689224635400273,"frozenset(['Sandwich', 'Bread'])"
+0.006505088658063162,"frozenset(['Bread', 'Scandinavian'])"
+0.00902318749344245,"frozenset(['Bread', 'Scone'])"
+0.006505088658063162,"frozenset(['Soup', 'Bread'])"
+0.027908928758787116,"frozenset(['Tea', 'Bread'])"
+0.007764138075752806,"frozenset(['Toast', 'Bread'])"
+0.019515265974189486,"frozenset(['Coffee', 'Brownie'])"
+0.006714930227678103,"frozenset(['Tea', 'Brownie'])"
+0.054348966530269646,"frozenset(['Cake', 'Coffee'])"
+0.007239534151715455,"frozenset(['Cake', 'Cookies'])"
+0.0113314447592068,"frozenset(['Cake', 'Hot chocolate'])"
+0.007029692582100514,"frozenset(['Cake', 'Juice'])"
+0.005141118455566048,"frozenset(['Cake', 'Pastry'])"
+0.006819851012485573,"frozenset(['Cake', 'Sandwich'])"
+0.023607176581680833,"frozenset(['Cake', 'Tea'])"
+0.005141118455566048,"frozenset(['Coffee', 'Chicken Stew'])"
+0.006400167873255692,"frozenset(['Coke', 'Coffee'])"
+0.028013849543594586,"frozenset(['Cookies', 'Coffee'])"
+0.0066100094428706326,"frozenset(['Farm House', 'Coffee'])"
+0.0056657223796034,"frozenset(['Hearty & Seasonal', 'Coffee'])"
+0.029377819746091702,"frozenset(['Hot chocolate', 'Coffee'])"
+0.0066100094428706326,"frozenset(['Jammie Dodgers', 'Coffee'])"
+0.02045955303745672,"frozenset(['Juice', 'Coffee'])"
+0.0053509600251809885,"frozenset(['Keeping It Local', 'Coffee'])"
+0.03493862134088763,"frozenset(['Coffee', 'Medialuna'])"
+0.005560801594795929,"frozenset(['Mineral water', 'Coffee'])"
+0.018675899695729723,"frozenset(['Muffin', 'Coffee'])"
+0.047214353163361665,"frozenset(['Coffee', 'Pastry'])"
+0.006505088658063162,"frozenset(['Coffee', 'Salad'])"
+0.03798132410030427,"frozenset(['Coffee', 'Sandwich'])"
+0.01794145420207743,"frozenset(['Coffee', 'Scone'])"
+0.015738117721120555,"frozenset(['Soup', 'Coffee'])"
+0.010806840835169447,"frozenset(['Spanish Brunch', 'Coffee'])"
+0.04952261042912601,"frozenset(['Tea', 'Coffee'])"
+0.00839366278459763,"frozenset(['Tiffin', 'Coffee'])"
+0.023502255796873362,"frozenset(['Toast', 'Coffee'])"
+0.007449375721330396,"frozenset(['Truffles', 'Coffee'])"
+0.005141118455566048,"frozenset(['Coke', 'Sandwich'])"
+0.005980484734025811,"frozenset(['Hot chocolate', 'Cookies'])"
+0.0060854055188332805,"frozenset(['Juice', 'Cookies'])"
+0.009757632987094743,"frozenset(['Tea', 'Cookies'])"
+0.0056657223796034,"frozenset(['Hot chocolate', 'Pastry'])"
+0.007973979645367748,"frozenset(['Tea', 'Hot chocolate'])"
+0.00577064316441087,"frozenset(['Juice', 'Sandwich'])"
+0.007134613366907985,"frozenset(['Tea', 'Juice'])"
+0.00912810827824992,"frozenset(['Medialuna', 'Pastry'])"
+0.008078900430175218,"frozenset(['Tea', 'Medialuna'])"
+0.006505088658063162,"frozenset(['Tea', 'Muffin'])"
+0.009547791417479802,"frozenset(['Tea', 'Pastry'])"
+0.005455880809988459,"frozenset(['Soup', 'Sandwich'])"
+0.01426922673381597,"frozenset(['Tea', 'Sandwich'])"
+0.00828874199979016,"frozenset(['Tea', 'Scone'])"
+0.00902318749344245,"frozenset(['Tea', 'Soup'])"
+0.006400167873255692,"frozenset(['Toast', 'Tea'])"
+0.009967474556709684,"frozenset(['Cake', 'Coffee', 'Bread'])"
+0.005246039240373518,"frozenset(['Cookies', 'Coffee', 'Bread'])"
+0.0060854055188332805,"frozenset(['Hot chocolate', 'Coffee', 'Bread'])"
+0.006714930227678103,"frozenset(['Coffee', 'Medialuna', 'Bread'])"
+0.011121603189591859,"frozenset(['Coffee', 'Pastry', 'Bread'])"
+0.007134613366907985,"frozenset(['Coffee', 'Sandwich', 'Bread'])"
+0.0073444549365229254,"frozenset(['Tea', 'Coffee', 'Bread'])"
+0.006819851012485573,"frozenset(['Cake', 'Hot chocolate', 'Coffee'])"
+0.009967474556709684,"frozenset(['Cake', 'Tea', 'Coffee'])"
+0.0053509600251809885,"frozenset(['Tea', 'Coffee', 'Sandwich'])"
