@@ -1,0 +1,19 @@
+{
+    "phone": "845-160-7885", 
+    "address": {
+        "city": "Glendale", 
+        "address1": "15082 North 59th Avenue", 
+        "address2": "#111", 
+        "coordinates": {
+            "lat": 33.6231673, 
+            "lng": -112.1871757
+        }, 
+        "state": "AZ", 
+        "postalCode": "85306"
+    }, 
+    "name": {
+        "surname": "Stoneman", 
+        "firstname": "Everett"
+    }, 
+    "email": "stonemaneverett6@hotmail.com"
+}
