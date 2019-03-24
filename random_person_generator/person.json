@@ -1,19 +1,26 @@
 {
-    "phone": "845-160-7885", 
+    "phone": "334-873-5569", 
     "address": {
-        "city": "Glendale", 
-        "address1": "15082 North 59th Avenue", 
-        "address2": "#111", 
+        "city": "Cambridge", 
+        "address1": "599 Cambridge Street", 
+        "address2": "#303", 
         "coordinates": {
-            "lat": 33.6231673, 
-            "lng": -112.1871757
+            "lat": 42.3720518, 
+            "lng": -71.08610949999999
         }, 
-        "state": "AZ", 
-        "postalCode": "85306"
+        "state": "MA", 
+        "postalCode": "02141"
     }, 
     "name": {
-        "surname": "Stoneman", 
-        "firstname": "Everett"
+        "surname": "Lapinskie", 
+        "firstname": "Sebastian"
     }, 
-    "email": "stonemaneverett6@hotmail.com"
+    "bank": {
+        "account_num": "7899428610", 
+        "bank": "Chase Bank USA,"
+    }, 
+    "email": {
+        "password": "b4NKzNLf", 
+        "email": "lapinskiesebastian3@outlook.com"
+    }
 }

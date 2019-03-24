@@ -6,6 +6,7 @@ import random # for getting a random number
 import os # for clearing the screen
 import urllib, json # json 
 import sys # for arguments
+import string # for the password generation
 
 
 os.system('cls' if os.name=='nt' else 'clear') # clear the screen
@@ -36,8 +37,10 @@ def gen_phone():
 def gen_email(firstname, lastname):
     punctuation = ['.', '_', '']
     mailproviders = ['@yahoo.com', '@gmail.com', '@aol.com', '@outlook.com', '@hotmail.com']
+    chars = string.ascii_letters + string.digits + '!@#$%^&*()'
+    password = ''.join(random.choice(chars) for i in range(8))
 
-    return lastname.lower() + random.choice(punctuation) + firstname.lower() + str(random.randrange(9)) + random.choice(mailproviders)
+    return {"email": lastname.lower() + random.choice(punctuation) + firstname.lower() + str(random.randrange(9)) + random.choice(mailproviders), "password": password}
 
 # generate a random address
 def gen_address():
@@ -50,6 +53,16 @@ def gen_address():
         print("Picking random address")
         return addresses['addresses'][randomNumber]
 
+# generate a random bank account
+def gen_account():
+    account_number = ''.join(random.choice(string.digits) for i in range(10))
+    print("Loading Banks List...")
+    with open('banks.json') as json_file:  
+        banks = json.load(json_file)
+        print("Picking random bank")
+        bank = random.choice(banks)
+    return {"bank": bank, "account_num": account_number}
+
 
 # print the results to the console for print
 def consoleprint():
@@ -58,6 +71,7 @@ def consoleprint():
     phone = gen_phone()
     email = gen_email(name["firstname"], name["surname"])
     address = gen_address()
+    bank = gen_account()
     # output
     os.system('cls' if os.name=='nt' else 'clear') # clear the screen
     print('=============================')
@@ -65,10 +79,13 @@ def consoleprint():
     print('=============================')
     print("Name: " + name["firstname"] + " " + name["surname"])
     print("Phone Number: " + phone)
-    print("Email: " + email)
+    print("Email: " + email["email"])
+    print("Password: " + email["password"])
     print("Address: " + address['address1'] + " " + address['address2'])
     print("City: " + address['city'] + ", " + address['state'])
     print("Postal Code: " + address['postalCode'])
+    print("Bank: " + bank["bank"])
+    print("Account Number: " + bank["account_num"])
     print('\n\n\n')
 
 # export the results to a json file
@@ -78,8 +95,9 @@ def json_export():
     phone = gen_phone()
     email = gen_email(name["firstname"], name["surname"])
     address = gen_address()
+    bank = gen_account()
     
-    data = {"name": name, "phone": phone, "email": email, "address": address}
+    data = {"name": name, "phone": phone, "email": email, "address": address, "bank": bank}
     data_json = json.dumps(data, indent=4)
 
     print('Writing to file...')
@@ -96,8 +114,9 @@ def json_output():
     phone = gen_phone()
     email = gen_email(name["firstname"], name["surname"])
     address = gen_address()
+    bank = gen_account()
     
-    data = {"name": name, "phone": phone, "email": email, "address": address}
+    data = {"name": name, "phone": phone, "email": email, "address": address, "bank": bank}
     data_json = json.dumps(data, indent=4)
 
     os.system('cls' if os.name=='nt' else 'clear') # clear the screen
