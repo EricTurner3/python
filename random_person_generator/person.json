@@ -1,26 +1,26 @@
 {
-    "phone": "334-873-5569", 
+    "phone": "271-580-2972", 
     "address": {
-        "city": "Cambridge", 
-        "address1": "599 Cambridge Street", 
-        "address2": "#303", 
+        "city": "Savannah", 
+        "address1": "107 Laurel Green Court", 
+        "address2": "", 
         "coordinates": {
-            "lat": 42.3720518, 
-            "lng": -71.08610949999999
+            "lat": 32.025628, 
+            "lng": -81.24673399999999
         }, 
-        "state": "MA", 
-        "postalCode": "02141"
+        "state": "GA", 
+        "postalCode": "31419"
     }, 
     "name": {
-        "surname": "Lapinskie", 
+        "surname": "Dunten", 
         "firstname": "Sebastian"
     }, 
     "bank": {
-        "account_num": "7899428610", 
-        "bank": "Chase Bank USA,"
+        "account_num": "1194739743", 
+        "bank": "HSBC Bank USA"
     }, 
     "email": {
-        "password": "b4NKzNLf", 
-        "email": "lapinskiesebastian3@outlook.com"
+        "password": "4!0Va&3q", 
+        "email": "dunten.sebastian2@yahoo.com"
     }
 }

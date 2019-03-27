@@ -1,8 +1,11 @@
 Random Person Generator
 ===
-
+Original v1.0 Build:
 This is the directory for a collection of scripts to generate a random, non-existant person. I get a lot of spam emails,
 so this is useful to generate spam data and I can use it to then generate fake emails or people to spam out for whatever need I have.
+
+Update: v1.1 (27 Mar 2019)
+I added a birthdate generator and social security num generator. Unfortunately, the method I used does not support Python 2.x so Python 3+ must be used. I also better formatted the console output.
 
 Description of Files:
 * **addresses.json** - This is a copy of addresses-us-all.json from RRAD on GitHub (https://github.com/EthanRBrown/rrad)
@@ -18,7 +21,7 @@ Usage
 ===
 
 ```python
-python /file/directory/main.py [argument]
+python3 /file/directory/main.py [argument]
 ```
 Arguments: 
 * console - Print out the randomly generated user information to the console
@@ -30,25 +33,33 @@ Examples
 Using the console argument
 
 ```python
-python /file/directory/main.py console
+python3 /file/directory/main.py console
 
 
 Output:
 --------------
 =============================
-RANDOM PERSON GENERATOR v1.0
+RANDOM PERSON GENERATOR v1.1
 =============================
-Name: Aiden Trux
-Phone Number: 359-816-1460
-Email: truxaiden6@outlook.com
-Password: (cjZ%ok0
-Address: 645 Governor Bridge Road 
-City: Davidsonville, MD
-Postal Code: 21035
-Bank: Harris National Association
-Account Number: 3466926689
+Name: Fabian Cross
+Phone Number: +1 (859) 478-0711
+Birth Date: 06/18/1934
+
+Email: cross_fabian8@outlook.com
+Password: goXYL!gw
+
+Address: 3601 South Portland Avenue 
+City: Oklahoma City, OK
+Postal Code: 73119
+
+Bank: Compass Bank
+Account Number: 7910367977
+
+Soc Sec Number: 231-52-2627
 
 ```
+
+
 
 Using the JSON output argument in another file
 ```python

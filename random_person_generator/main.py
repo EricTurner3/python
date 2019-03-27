@@ -7,6 +7,7 @@ import os # for clearing the screen
 import urllib, json # json 
 import sys # for arguments
 import string # for the password generation
+from datetime import datetime, timedelta # for generating birthdate
 
 
 os.system('cls' if os.name=='nt' else 'clear') # clear the screen
@@ -31,7 +32,7 @@ def gen_phone():
     while last in ['1111','2222','3333','4444','5555','6666','7777','8888']:
         last = (str(random.randint(1,9998)).zfill(4))
 
-    return '{}-{}-{}'.format(first,second, last)
+    return '+1 ({}) {}-{}'.format(first,second, last)
 
 # generate an email based off lastname_firstname@randomprovider.com
 def gen_email(firstname, lastname):
@@ -63,6 +64,41 @@ def gen_account():
         bank = random.choice(banks)
     return {"bank": bank, "account_num": account_number}
 
+# generate a social security number to the SSA's formatting guidelines
+def gen_socialsecnum():
+    # Serial Numbers have the following format:
+    # AAA-GG-SSSS
+    # Area # - Group # - Serial #
+    # And cannot have certain digits in the areas so each set will be generated independently then added at the end
+    # Rules: https://www.ssa.gov/kc/SSAFactSheet--IssuingSSNs.pdf
+    
+    # Generate the groupings first (start at 1 because none of the numbers can be all zeroes)
+    area = (str(random.randint(1,899)).zfill(3))
+    group = (str(random.randint(1,99)).zfill(2))
+    serial = (str(random.randint(1,9999)).zfill(4))
+    
+    # cannot have 666 in the area so regenerate
+    while area == '666':
+        area = (str(random.randint(1,899)).zfill(3))
+
+    # return the combined serial number
+    return area + '-' + group + '-' + serial
+
+# generate a birthdate for the person in MM/DD/YYYY format 
+# NOTE: this does NOT work in Python 2.x, must run using python3 in order for this to work!!
+# Derived From: https://gist.github.com/rg3915/db907d7455a4949dbe69
+def gen_birthdate():
+    # realistically, don't have people over 90. Once you approach 100 you'd be in the news so it's obvious it'd be a fake
+    min_year=datetime.now().year - 90
+    # subtract 19 years from now so the person will always be at least 18 years old (for the bank account to seem legit)
+    max_year=datetime.now().year - 19
+
+    start = datetime(min_year, 1, 1, 00, 00, 00)
+    years = max_year - min_year + 1
+    end = start + timedelta(days=365 * years)
+    x = start + (end - start) * random.random()
+    # format the date in MM/DD/YYYY
+    return x.strftime("%m/%d/%Y")
 
 # print the results to the console for print
 def consoleprint():
@@ -72,20 +108,24 @@ def consoleprint():
     email = gen_email(name["firstname"], name["surname"])
     address = gen_address()
     bank = gen_account()
+    social = gen_socialsecnum()
+    birthdate = gen_birthdate()
     # output
     os.system('cls' if os.name=='nt' else 'clear') # clear the screen
     print('=============================')
-    print('RANDOM PERSON GENERATOR v1.0')
+    print('RANDOM PERSON GENERATOR v1.1')
     print('=============================')
     print("Name: " + name["firstname"] + " " + name["surname"])
     print("Phone Number: " + phone)
+    print("Birth Date: " + birthdate  + '\n')
     print("Email: " + email["email"])
-    print("Password: " + email["password"])
+    print("Password: " + email["password"] + '\n')
     print("Address: " + address['address1'] + " " + address['address2'])
     print("City: " + address['city'] + ", " + address['state'])
-    print("Postal Code: " + address['postalCode'])
+    print("Postal Code: " + address['postalCode'] + '\n')
     print("Bank: " + bank["bank"])
-    print("Account Number: " + bank["account_num"])
+    print("Account Number: " + bank["account_num"] + '\n')
+    print("Soc Sec Number: " + social)
     print('\n\n\n')
 
 # export the results to a json file
@@ -96,8 +136,18 @@ def json_export():
     email = gen_email(name["firstname"], name["surname"])
     address = gen_address()
     bank = gen_account()
+    social = gen_socialsecnum()
+    birthdate = gen_birthdate()
     
-    data = {"name": name, "phone": phone, "email": email, "address": address, "bank": bank}
+    data = {
+        "name": name, 
+        "phone": phone, 
+        "email": email, 
+        "address": address, 
+        "bank": bank, 
+        "socialsec": social,
+        "birthdate": birthdate
+    }
     data_json = json.dumps(data, indent=4)
 
     print('Writing to file...')
@@ -115,8 +165,18 @@ def json_output():
     email = gen_email(name["firstname"], name["surname"])
     address = gen_address()
     bank = gen_account()
+    social = gen_socialsecnum()
+    birthdate = gen_birthdate()
     
-    data = {"name": name, "phone": phone, "email": email, "address": address, "bank": bank}
+    data = {
+        "name": name, 
+        "phone": phone, 
+        "email": email, 
+        "address": address, 
+        "bank": bank, 
+        "socialsec": social,
+        "birthdate": birthdate
+    }
     data_json = json.dumps(data, indent=4)
 
     os.system('cls' if os.name=='nt' else 'clear') # clear the screen
