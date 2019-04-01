@@ -24,7 +24,7 @@ print("Loading School: " + schoolName)
 browser.implicitly_wait(3)
 
 # in the school page, find the login link and click it
-browser.get("https://destiny.warren.k12.in.us/common/servlet/presentloginform.do?fromLoginLink=true")
+browser.get("")
 print("Loading Login Page...")
 # wait after clicking for the new page to load
 browser.implicitly_wait(3)

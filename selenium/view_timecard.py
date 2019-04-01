@@ -12,7 +12,7 @@ browser.get(url)
 # Find the employee ID box
 element = browser.find_element_by_id("LogOnEmployeeId")
 # fill it with my employee ID
-element.send_keys()
+element.send_keys("")
 
 #Find the login button and click it
 login_btn = browser.find_element_by_xpath("//input[@value='Log On To Dashboard']")
