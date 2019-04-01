@@ -155,7 +155,7 @@ def json_export():
     f.write(data_json) 
     f.close()
 
-    print('Names JSON exported!')
+    print('person.json generated in root directory!')
 
 # output the results to the console in JSON format
 def json_output():
