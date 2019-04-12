@@ -8,5 +8,6 @@ Repository of the various projects I have undertaken in python, mainly for machi
 - **google-python-exercies** (7 Nov 2018): this directory was for following tutorials from google on different python exercises
 - **Project 2 - Association Rules of Bakery** (8 Nov 2018): for my CIT 49900 - Big Data Class at IUPUI, I was practicing with assoc. rules for bakery sales
 - **Project 2 - Predict House Selling Price** (28 Nov 2018): I decided to change to instead predicting a house selling price for my final project 2
-- **random_person_generator** - Generate fictitious information about a person to be used for whatever
-- **selenium**: Projects based around the selenium project for web automation
+- **random_person_generator** (27 Mar 2019): Generate fictitious information about a person to be used for whatever
+- **selenium** (2 Apr 2019): Projects based around the selenium project for web automation
+- **sorting_algorithms** (12 Apr 2019): Testing and explanation of different sorting algorithms
