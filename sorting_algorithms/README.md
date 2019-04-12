@@ -10,3 +10,4 @@ Files in this Directory:
 * Bubble Sort
 * Selection Sort
 * Insertion Sort
+* Time Comparison - Load up 2000 random integers and have the algorithm sort and see the times for each run.
