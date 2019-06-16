@@ -11,3 +11,4 @@ Repository of the various projects I have undertaken in python, mainly for machi
 - **random_person_generator** (27 Mar 2019): Generate fictitious information about a person to be used for whatever
 - **selenium** (2 Apr 2019): Projects based around the selenium project for web automation
 - **sorting_algorithms** (12 Apr 2019): Testing and explanation of different sorting algorithms
+- **rpg** - (15 Jun 2019) an rpg console game I started developing to further my skills in OOP just for fun
