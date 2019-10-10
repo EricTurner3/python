@@ -1,0 +1,43 @@
+{
+    "coord": {
+      "lon": -86.16,
+      "lat": 39.77
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 71.38,
+      "pressure": 1016,
+      "humidity": 56,
+      "temp_min": 69.8,
+      "temp_max": 73
+    },
+    "visibility": 16093,
+    "wind": {
+      "speed": 19.46,
+      "deg": 230,
+      "gust": 10.8
+    },
+    "clouds": {
+      "all": 1
+    },
+    "dt": 1555439600,
+    "sys": {
+      "type": 1,
+      "id": 4965,
+      "message": 0.0087,
+      "country": "US",
+      "sunrise": 1555412740,
+      "sunset": 1555460569
+    },
+    "id": 4259418,
+    "name": "Indianapolis",
+    "cod": 200
+  }

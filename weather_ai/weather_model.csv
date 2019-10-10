@@ -1,0 +1,56 @@
+ID,Main,Modifier_1,Action_1,Modifier_2,Action_2,Modifier_3,Action_3,Score
+200,Thunderstorm,,thunderstorm,light,rain,,,0.04
+201,Thunderstorm,,thunderstorm,,rain,,,0.10
+202,Thunderstorm,,thunderstorm,heavy,rain,,,0.03
+210,Thunderstorm,light,thunderstorm,,,,,0.10
+211,Thunderstorm,,thunderstorm,,,,,0.30
+212,Thunderstorm,heavy,thunderstorm,,,,,0.07
+221,Thunderstorm,ragged,thunderstorm,,,,,0.09
+230,Thunderstorm,,thunderstorm,light,drizzle,,,0.04
+231,Thunderstorm,,thunderstorm,,drizzle,,,0.12
+232,Thunderstorm,,thunderstorm,heavy,drizzle,,,0.03
+300,Drizzle,light intensity,drizzle,,,,,0.13
+301,Drizzle,,drizzle,,,,,0.40
+302,Drizzle,heavy intensity,drizzle,,,,,0.08
+310,Drizzle,light intensity,drizzle,,rain,,,0.05
+311,Drizzle,,drizzle,,rain,,,0.14
+312,Drizzle,heavy intensity,drizzle,,rain,,,0.03
+313,Drizzle,,shower,,rain,,drizzle,0.05
+314,Drizzle,heavy,shower,,rain,,drizzle,0.01
+321,Drizzle,,shower,,drizzle,,,0.15
+500,Rain,light,rain,,,,,0.12
+501,Rain,moderate,rain,,,,,0.10
+502,Rain,heavy intensity,rain,,,,,0.07
+503,Rain,very heavy,rain,,,,,0.05
+504,Rain,extreme,rain,,,,,0.02
+511,Rain,freezing,rain,,,,,0.10
+520,Rain,light intensity,shower,,rain,,,0.04
+521,Rain,,shower,,rain,,,0.13
+522,Rain,heavy intensity,shower,,rain,,,0.03
+531,Rain,ragged,shower,,rain,,,0.04
+600,Snow,light,snow,,,,,0.10
+601,Snow,,snow,,,,,0.28
+602,Snow,heavy,snow,,,,,0.07
+611,Snow,,sleet,,,,,0.28
+612,Snow,light,shower,,sleet,,,0.04
+613,Snow,,shower,,sleet,,,0.10
+615,Snow,light,rain,,snow,,,0.03
+616,Snow,,rain,,snow,,,0.10
+620,Snow,light,shower,,snow,,,0.04
+621,Snow,,shower,,snow,,,0.10
+622,Snow,heavy,shower,,snow,,,0.03
+701,Mist,,mist,,,,,0.42
+711,Smoke,,smoke,,,,,0.26
+721,Haze,,haze,,,,,0.26
+731,Dust,whirls,dust,,,,,0.06
+741,Fog,,fog,,,,,0.45
+751,Sand,,sand,,,,,0.23
+761,Dust,,dust,,,,,0.23
+762,Ash,,volcanic ash,,,,,0.17
+771,Squall,,squalls,,,,,0.15
+781,Tornado,,tornado,,,,,0.05
+800,Clear,clear,sky,,,,,0.50
+801,Clouds,few,clouds,,,,,0.36
+802,Clouds,scattered,clouds,,,,,0.21
+803,Clouds,broken,clouds,,,,,0.20
+804,Clouds,overcast,clouds,,,,,0.20

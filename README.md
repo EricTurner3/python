@@ -11,4 +11,8 @@ Repository of the various projects I have undertaken in python, mainly for machi
 - **random_person_generator** (27 Mar 2019): Generate fictitious information about a person to be used for whatever
 - **selenium** (2 Apr 2019): Projects based around the selenium project for web automation
 - **sorting_algorithms** (12 Apr 2019): Testing and explanation of different sorting algorithms
+- **weather_ai** - (14 Jun 2019) my (failed/wip) attempt to build a weather AI to tell you what you need to wear
 - **rpg** - (15 Jun 2019) an rpg console game I started developing to further my skills in OOP just for fun
+- **sysinfo** - (7 Aug 2019) pull a system diagnostic report
+- **EventLink** - (7 Aug 2019) a python script that scrapes my district's event manager and provides direct links to all events for our sports teams
+- **Medium** - (10 Oct 2019) random code I have done after reading articles on Medium

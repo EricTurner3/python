@@ -1,0 +1,56 @@
+ID,Main,Modifier_1,Action_1,Modifier_2,Action_2,Modifier_3,Action_3,Score
+200,Thunderstorm,1,thunderstorm,light,rain,1.0,1,0.2
+201,Thunderstorm,1,thunderstorm,1,rain,1.0,1,0.15
+202,Thunderstorm,1,thunderstorm,heavy,rain,1.0,1,0.0
+210,Thunderstorm,light,thunderstorm,1,1,1.0,1,0.1
+211,Thunderstorm,1,thunderstorm,1,1,1.0,1,0.1
+212,Thunderstorm,heavy,thunderstorm,1,1,1.0,1,0.0
+221,Thunderstorm,ragged,thunderstorm,1,1,1.0,1,0.0
+230,Thunderstorm,1,thunderstorm,light,drizzle,1.0,1,0.15
+231,Thunderstorm,1,thunderstorm,1,drizzle,1.0,1,0.1
+232,Thunderstorm,1,thunderstorm,heavy,drizzle,1.0,1,0.0
+300,Drizzle,light intensity,drizzle,1,1,1.0,1,0.3
+301,Drizzle,1,drizzle,1,1,1.0,1,0.2
+302,Drizzle,heavy intensity,drizzle,1,1,1.0,1,0.1
+310,Drizzle,light intensity,drizzle,1,rain,1.0,1,0.2
+311,Drizzle,1,drizzle,1,rain,1.0,1,0.1
+312,Drizzle,heavy intensity,drizzle,1,rain,1.0,1,0.0
+313,Drizzle,1,shower,1,rain,1.0,drizzle,0.1
+314,Drizzle,heavy,shower,1,rain,1.0,drizzle,0.0
+321,Drizzle,1,shower,1,drizzle,1.0,1,0.3
+500,Rain,light,rain,1,1,1.0,1,0.2
+501,Rain,moderate,rain,1,1,1.0,1,0.1
+502,Rain,heavy intensity,rain,1,1,1.0,1,0.0
+503,Rain,very heavy,rain,1,1,1.0,1,0.0
+504,Rain,extreme,rain,1,1,1.0,1,0.0
+511,Rain,freezing,rain,1,1,1.0,1,0.1
+520,Rain,light intensity,shower,1,rain,1.0,1,0.2
+521,Rain,1,shower,1,rain,1.0,1,0.1
+522,Rain,heavy intensity,shower,1,rain,1.0,1,0.0
+531,Rain,ragged,shower,1,rain,1.0,1,0.2
+600,Snow,light,snow,1,1,1.0,1,0.2
+601,Snow,1,snow,1,1,1.0,1,0.1
+602,Snow,heavy,snow,1,1,1.0,1,0.0
+611,Snow,1,sleet,1,1,1.0,1,0.2
+612,Snow,light,shower,1,sleet,1.0,1,0.3
+613,Snow,1,shower,1,sleet,1.0,1,0.2
+615,Snow,light,rain,1,snow,1.0,1,0.3
+616,Snow,1,rain,1,snow,1.0,1,0.2
+620,Snow,light,shower,1,snow,1.0,1,0.2
+621,Snow,1,shower,1,snow,1.0,1,0.1
+622,Snow,heavy,shower,1,snow,1.0,1,0.0
+701,Mist,1,mist,1,1,1.0,1,0.3
+711,Smoke,1,smoke,1,1,1.0,1,0.1
+721,Haze,1,haze,1,1,1.0,1,0.2
+731,Dust,whirls,dust,1,1,1.0,1,0.1
+741,Fog,1,fog,1,1,1.0,1,0.2
+751,Sand,1,sand,1,1,1.0,1,0.1
+761,Dust,1,dust,1,1,1.0,1,0.1
+762,Ash,1,volcanic ash,1,1,1.0,1,0.0
+771,Squall,1,squalls,1,1,1.0,1,0.0
+781,Tornado,1,tornado,1,1,1.0,1,0.0
+800,Clear,clear,sky,1,1,1.0,1,0.5
+801,Clouds,few,clouds,1,1,1.0,1,0.5
+802,Clouds,scattered,clouds,1,1,1.0,1,0.5
+803,Clouds,broken,clouds,1,1,1.0,1,0.4
+804,Clouds,overcast,clouds,1,1,1.0,1,0.4

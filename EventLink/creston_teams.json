@@ -1,0 +1,1451 @@
+{  
+    "Data":[  
+       {  
+          "ID":"189d2fd7-c20e-4616-b224-a4edd351fb6d",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"dc92af71-ac06-48f0-b8a3-305c06cb5af8",
+          "GameCalendarID":"98a0f5eb-50b0-4669-95aa-9bd825a5a417",
+          "PracticeCalendarID":"fac08b6c-6065-4743-a063-d11b4de0ac49",
+          "Gender":"Girls",
+          "Title":"Basketball (Girls Freshman)",
+          "DisplayTitle":"Basketball (Girls Fr)",
+          "Season":"Winter",
+          "Active":false,
+          "AbbreviationTitle":"G-BB-Fr",
+          "AccountNumber":null,
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"6ef76693-abc6-48b1-9408-6a5cb6c562e2",
+                "Title":"Freshman",
+                "Ranking":100
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"dc92af71-ac06-48f0-b8a3-305c06cb5af8",
+             "Title":"Basketball"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"be13c2e3-8be3-45c5-ba28-5bb5423b1ea7",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"dc92af71-ac06-48f0-b8a3-305c06cb5af8",
+          "GameCalendarID":"35b507ac-1126-42a9-995e-e7bb14e5c25d",
+          "PracticeCalendarID":"c795b8d6-434c-4cfb-9d02-453736be67ec",
+          "Gender":"Girls",
+          "Title":"Basketball (Girls JV)",
+          "DisplayTitle":"Basketball (Girls JV)",
+          "Season":"Winter",
+          "Active":false,
+          "AbbreviationTitle":"G-BB-JV",
+          "AccountNumber":null,
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"4b25bc52-63fd-4340-88e3-3c9752e8d73b",
+                "Title":"Junior Varsity",
+                "Ranking":200
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"dc92af71-ac06-48f0-b8a3-305c06cb5af8",
+             "Title":"Basketball"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"db1f7e03-13e3-4190-8857-0b5a1086ab42",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"dc92af71-ac06-48f0-b8a3-305c06cb5af8",
+          "GameCalendarID":"fa218b36-cd6c-400b-a983-ab99b90d1e36",
+          "PracticeCalendarID":"d2466d83-ddef-4cf3-af04-bb1e17a8f7e5",
+          "Gender":"Girls",
+          "Title":"Basketball (Girls Varsity)",
+          "DisplayTitle":"Basketball (Girls V)",
+          "Season":"Winter",
+          "Active":false,
+          "AbbreviationTitle":"G-BB-V",
+          "AccountNumber":null,
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"2936d12f-75dc-4be6-923a-7fb9ffb3bd06",
+                "Title":"Varsity",
+                "Ranking":300
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"dc92af71-ac06-48f0-b8a3-305c06cb5af8",
+             "Title":"Basketball"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"614c43e1-78d3-4c93-87ac-908051ffa454",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"dc92af71-ac06-48f0-b8a3-305c06cb5af8",
+          "GameCalendarID":"dcf7b255-7dcc-4ad7-b0d3-70afe03ed770",
+          "PracticeCalendarID":"f4b1df24-949c-45d1-bd0c-6bff620d4077",
+          "Gender":"Boys",
+          "Title":"Boys Basketball (7/8)",
+          "DisplayTitle":"Boys Basketball (7/8)",
+          "Season":"Winter",
+          "Active":true,
+          "AbbreviationTitle":"Boys BB",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"f86a8073-6ada-4a8b-a5e0-9e9ffafbfd57",
+                "Title":"Middle School",
+                "Ranking":50
+             }
+          ],
+          "Facilities":[  
+             {  
+                "IsDefault":true,
+                "ID":"4a8f72e5-0e2c-4aeb-be64-1ee34f06f68f",
+                "OrganizationID":"00000000-0000-0000-0000-000000000000",
+                "Title":"Creston Middle School",
+                "Capacity":null,
+                "Description":null
+             }
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"dc92af71-ac06-48f0-b8a3-305c06cb5af8",
+             "Title":"Basketball"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"b364282e-2952-4418-aee9-67fe3bdcdefb",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"dc92af71-ac06-48f0-b8a3-305c06cb5af8",
+          "GameCalendarID":"cabe1fc2-300a-46e1-bf7e-58b59153340c",
+          "PracticeCalendarID":"8a3469f7-b182-4409-9fb5-bbcadf0f073b",
+          "Gender":"Boys",
+          "Title":"Boys Basketball (7th)",
+          "DisplayTitle":"Basketball (Boys 7)",
+          "Season":"Winter",
+          "Active":false,
+          "AbbreviationTitle":"BB 7",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"95825d91-7cb3-4404-9940-956f0ae0fed3",
+                "Title":"7th Grade",
+                "Ranking":0
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"dc92af71-ac06-48f0-b8a3-305c06cb5af8",
+             "Title":"Basketball"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"f666f4c4-da37-4cc0-8d99-5f6e66589403",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"dc92af71-ac06-48f0-b8a3-305c06cb5af8",
+          "GameCalendarID":"17f781c6-9bfe-4e91-a708-c9515b3fd57d",
+          "PracticeCalendarID":"c7094361-03bf-4da6-b9cb-5c37989625b4",
+          "Gender":"Boys",
+          "Title":"Boys Basketball (8th)",
+          "DisplayTitle":"Basketball (Boys 8)",
+          "Season":"Winter",
+          "Active":false,
+          "AbbreviationTitle":"BB 8",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"249be5e5-8872-4619-ab4a-333768d33088",
+                "Title":"8th Grade",
+                "Ranking":0
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"dc92af71-ac06-48f0-b8a3-305c06cb5af8",
+             "Title":"Basketball"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"9d337d62-3370-476f-97e0-aedef62d52ea",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"7db26408-43b7-401e-a859-527f3333bcd6",
+          "GameCalendarID":"1564ed3e-be99-45b7-b84d-5722d4ab6026",
+          "PracticeCalendarID":"85506ba7-6f6a-411c-a8cf-0df1dd96277a",
+          "Gender":"Boys",
+          "Title":"Boys Golf",
+          "DisplayTitle":"Boys Golf",
+          "Season":"Spring",
+          "Active":true,
+          "AbbreviationTitle":"B-Golf",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"f86a8073-6ada-4a8b-a5e0-9e9ffafbfd57",
+                "Title":"Middle School",
+                "Ranking":50
+             }
+          ],
+          "Facilities":[  
+             {  
+                "IsDefault":true,
+                "ID":"54f99e98-c91a-42f1-9376-6552ec8ed115",
+                "OrganizationID":"00000000-0000-0000-0000-000000000000",
+                "Title":"Morningstar Golf Course",
+                "Capacity":null,
+                "Description":null
+             }
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"7db26408-43b7-401e-a859-527f3333bcd6",
+             "Title":"Golf"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"2693d2b2-8a50-4434-9dfd-0c4fe7cef5ce",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"7db26408-43b7-401e-a859-527f3333bcd6",
+          "GameCalendarID":"275dcd03-25f6-40cb-8d2c-575c8e214939",
+          "PracticeCalendarID":"1bb6dac7-8f74-4f1f-9868-6214b82bba86",
+          "Gender":"Boys",
+          "Title":"Boys Golf (6/7/8)",
+          "DisplayTitle":"Boys Golf",
+          "Season":"Spring",
+          "Active":false,
+          "AbbreviationTitle":"B Golf",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"f86a8073-6ada-4a8b-a5e0-9e9ffafbfd57",
+                "Title":"Middle School",
+                "Ranking":50
+             }
+          ],
+          "Facilities":[  
+             {  
+                "IsDefault":true,
+                "ID":"54f99e98-c91a-42f1-9376-6552ec8ed115",
+                "OrganizationID":"00000000-0000-0000-0000-000000000000",
+                "Title":"Morningstar Golf Course",
+                "Capacity":null,
+                "Description":null
+             }
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"7db26408-43b7-401e-a859-527f3333bcd6",
+             "Title":"Golf"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"68515708-470c-4cc4-ac4f-5a7d5b98e170",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"997f1bd0-acbe-481c-9349-e91093b382f6",
+          "GameCalendarID":"8b2b4d19-70fb-4c3d-bc88-1b4fa797ed1e",
+          "PracticeCalendarID":"37a41fd4-8b6c-4be3-b7d0-26cd8607a5a2",
+          "Gender":"Boys",
+          "Title":"Boys Soccer (7/8)",
+          "DisplayTitle":"Boys Soccer (7/8)",
+          "Season":"Fall",
+          "Active":false,
+          "AbbreviationTitle":"BSOC",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"f86a8073-6ada-4a8b-a5e0-9e9ffafbfd57",
+                "Title":"Middle School",
+                "Ranking":50
+             }
+          ],
+          "Facilities":[  
+             {  
+                "IsDefault":true,
+                "ID":"822cc11e-5a5f-4946-8a28-2d2e07671df6",
+                "OrganizationID":"00000000-0000-0000-0000-000000000000",
+                "Title":"Warren Central High School",
+                "Capacity":null,
+                "Description":null
+             }
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"997f1bd0-acbe-481c-9349-e91093b382f6",
+             "Title":"Soccer"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"559fbcb3-ab14-4c37-89d3-fcae07bb8b35",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"521649d4-455a-47d5-9c7e-f03adf722ba8",
+          "GameCalendarID":"fdc9da8a-e12a-4a73-9ed6-64d4bc1c2aa8",
+          "PracticeCalendarID":"b5f6849d-7648-4bd1-b39e-e8ed5eaaede2",
+          "Gender":"Boys",
+          "Title":"Boys Tennis",
+          "DisplayTitle":"Boys Tennis",
+          "Season":"Fall",
+          "Active":true,
+          "AbbreviationTitle":"B-Tennis",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"f86a8073-6ada-4a8b-a5e0-9e9ffafbfd57",
+                "Title":"Middle School",
+                "Ranking":50
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"521649d4-455a-47d5-9c7e-f03adf722ba8",
+             "Title":"Tennis"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"2a4beb7e-f190-4151-a560-2540c4122bac",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"b7630efd-2350-455a-b82b-6ebbac635204",
+          "GameCalendarID":"072f6695-adf6-4359-8299-40174695d53f",
+          "PracticeCalendarID":"f0f20b6a-9024-4cc8-b50f-ab768f8a162b",
+          "Gender":"Coed",
+          "Title":"Boys/Girls Cross Country",
+          "DisplayTitle":"Boys/Girls XC",
+          "Season":"Fall",
+          "Active":true,
+          "AbbreviationTitle":"XC",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"f86a8073-6ada-4a8b-a5e0-9e9ffafbfd57",
+                "Title":"Middle School",
+                "Ranking":50
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"b7630efd-2350-455a-b82b-6ebbac635204",
+             "Title":"Cross Country"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"e3674f0b-7e98-4af9-b334-23b83bc81f4f",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"48c8beed-2e78-4c83-9d98-6f1413ed9f10",
+          "GameCalendarID":"523e26a3-0c7f-4b71-9428-22b27b7fe7b6",
+          "PracticeCalendarID":"dfc428c0-0987-4bda-8532-629f205eb5a4",
+          "Gender":"Coed",
+          "Title":"Boys/Girls Swimming and Diving",
+          "DisplayTitle":"Swimming",
+          "Season":"Winter",
+          "Active":true,
+          "AbbreviationTitle":"Swimming",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"f86a8073-6ada-4a8b-a5e0-9e9ffafbfd57",
+                "Title":"Middle School",
+                "Ranking":50
+             }
+          ],
+          "Facilities":[  
+             {  
+                "IsDefault":true,
+                "ID":"822cc11e-5a5f-4946-8a28-2d2e07671df6",
+                "OrganizationID":"00000000-0000-0000-0000-000000000000",
+                "Title":"Warren Central High School",
+                "Capacity":null,
+                "Description":null
+             }
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"48c8beed-2e78-4c83-9d98-6f1413ed9f10",
+             "Title":"Swimming & Diving"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"8c6a1498-ddf7-446b-b9ce-d2777b8f8dd9",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"d2370f1c-834d-4be3-bf75-17686ceafb96",
+          "GameCalendarID":"d2bd1964-46f7-47b3-b069-5eba6aab3f0c",
+          "PracticeCalendarID":"5d01cdf7-c2ee-49ea-b1e4-d9a85eddcaca",
+          "Gender":"Coed",
+          "Title":"Boys/Girls Track and Field",
+          "DisplayTitle":"Track and Field",
+          "Season":"Spring",
+          "Active":true,
+          "AbbreviationTitle":"Track",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":60.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"f86a8073-6ada-4a8b-a5e0-9e9ffafbfd57",
+                "Title":"Middle School",
+                "Ranking":50
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"d2370f1c-834d-4be3-bf75-17686ceafb96",
+             "Title":"Track & Field"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"daee7c1e-505e-48ee-ae8b-dccfad04db1a",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"43dff0be-5d69-4253-a001-a39d54bf8748",
+          "GameCalendarID":"5c3f8cd8-387f-4b81-868b-6d75fbabf5ac",
+          "PracticeCalendarID":"9653f196-7ef9-4fe1-8fc4-0323262dcec1",
+          "Gender":"Coed",
+          "Title":"Cheerleading (Girls Varsity)",
+          "DisplayTitle":"Cheerleading (Co-Ed V)",
+          "Season":"Summer",
+          "Active":false,
+          "AbbreviationTitle":"C-CH-V",
+          "AccountNumber":null,
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"2936d12f-75dc-4be6-923a-7fb9ffb3bd06",
+                "Title":"Varsity",
+                "Ranking":300
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"43dff0be-5d69-4253-a001-a39d54bf8748",
+             "Title":"Cheerleading"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"e0d72788-22e0-42cc-9174-891beefcff84",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"43dff0be-5d69-4253-a001-a39d54bf8748",
+          "GameCalendarID":"3ec35f11-a477-4802-a655-48839049dcea",
+          "PracticeCalendarID":"26e862c2-1059-4579-9f9c-840b28bdea40",
+          "Gender":"Coed",
+          "Title":"Cheerleading (JV)",
+          "DisplayTitle":"Cheerleading (Co-Ed JV)",
+          "Season":"Summer",
+          "Active":false,
+          "AbbreviationTitle":"C-CH-JV",
+          "AccountNumber":null,
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"4b25bc52-63fd-4340-88e3-3c9752e8d73b",
+                "Title":"Junior Varsity",
+                "Ranking":200
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"43dff0be-5d69-4253-a001-a39d54bf8748",
+             "Title":"Cheerleading"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"f2138d57-89d1-4fbe-a8a2-be301f532f4f",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"0dc9d2e5-2739-4c0f-b76a-46fe953d8049",
+          "GameCalendarID":"3a59ca78-d2df-4803-9bd2-d45df8813775",
+          "PracticeCalendarID":"6e99f30c-13eb-4a20-aca5-c900911fb65f",
+          "Gender":"Boys",
+          "Title":"Football (7/8)",
+          "DisplayTitle":"Football",
+          "Season":"Fall",
+          "Active":true,
+          "AbbreviationTitle":"FB",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":50.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"f86a8073-6ada-4a8b-a5e0-9e9ffafbfd57",
+                "Title":"Middle School",
+                "Ranking":50
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"0dc9d2e5-2739-4c0f-b76a-46fe953d8049",
+             "Title":"Football"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"0078490b-6f3f-4e54-8aa0-ca0e90f595e8",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"0dc9d2e5-2739-4c0f-b76a-46fe953d8049",
+          "GameCalendarID":"b81b5f13-3e40-4d1f-9305-9b648fb0b7d8",
+          "PracticeCalendarID":"dd04fd49-972d-4b97-80e1-68fd8b5bc060",
+          "Gender":"Boys",
+          "Title":"Football (8th)",
+          "DisplayTitle":"FB8",
+          "Season":"Fall",
+          "Active":false,
+          "AbbreviationTitle":"FB8",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":50.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"249be5e5-8872-4619-ab4a-333768d33088",
+                "Title":"8th Grade",
+                "Ranking":0
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"0dc9d2e5-2739-4c0f-b76a-46fe953d8049",
+             "Title":"Football"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"83403fda-053c-4d21-ac1b-5d1dcaddf1eb",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"dc92af71-ac06-48f0-b8a3-305c06cb5af8",
+          "GameCalendarID":"34372030-63c5-419b-8c25-02d0b8e36144",
+          "PracticeCalendarID":"0a698154-f33f-464a-8722-d90d7a3b5cb1",
+          "Gender":"Girls",
+          "Title":"Girls Basketball (7/8)",
+          "DisplayTitle":"Girls Basketball (7/8)",
+          "Season":"Winter",
+          "Active":true,
+          "AbbreviationTitle":"GBB",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"f86a8073-6ada-4a8b-a5e0-9e9ffafbfd57",
+                "Title":"Middle School",
+                "Ranking":50
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"dc92af71-ac06-48f0-b8a3-305c06cb5af8",
+             "Title":"Basketball"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"a997259a-5425-4115-8118-38fb406de0ed",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"dc92af71-ac06-48f0-b8a3-305c06cb5af8",
+          "GameCalendarID":"989f9cdf-1124-4649-8d01-1c5a7c543062",
+          "PracticeCalendarID":"130db8d3-6fc6-456b-8ea8-ac84e5dd0b26",
+          "Gender":"Girls",
+          "Title":"Girls Basketball (7th)",
+          "DisplayTitle":"GB7",
+          "Season":"Winter",
+          "Active":false,
+          "AbbreviationTitle":"GB7",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"95825d91-7cb3-4404-9940-956f0ae0fed3",
+                "Title":"7th Grade",
+                "Ranking":0
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"dc92af71-ac06-48f0-b8a3-305c06cb5af8",
+             "Title":"Basketball"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"89a1418c-d3af-4e1c-ae7c-9b96665fe926",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"dc92af71-ac06-48f0-b8a3-305c06cb5af8",
+          "GameCalendarID":"3adecc25-3a36-4c15-889b-7172a205732e",
+          "PracticeCalendarID":"3abc8016-64d2-423e-a2ad-1c3b2f35efec",
+          "Gender":"Girls",
+          "Title":"Girls Basketball (8th)",
+          "DisplayTitle":"GB8",
+          "Season":"Winter",
+          "Active":false,
+          "AbbreviationTitle":"GB8",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"249be5e5-8872-4619-ab4a-333768d33088",
+                "Title":"8th Grade",
+                "Ranking":0
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"dc92af71-ac06-48f0-b8a3-305c06cb5af8",
+             "Title":"Basketball"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"f624af5b-c7dc-4e2c-befe-0be1ac99d9be",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"7db26408-43b7-401e-a859-527f3333bcd6",
+          "GameCalendarID":"aef30167-ec13-47da-86b2-8dd3c2fd2b18",
+          "PracticeCalendarID":"550efe4c-830d-43f4-bdbd-42700393dd2f",
+          "Gender":"Girls",
+          "Title":"Girls Golf",
+          "DisplayTitle":"Girls Golf",
+          "Season":"Fall",
+          "Active":true,
+          "AbbreviationTitle":"G-Golf",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"f86a8073-6ada-4a8b-a5e0-9e9ffafbfd57",
+                "Title":"Middle School",
+                "Ranking":50
+             }
+          ],
+          "Facilities":[  
+             {  
+                "IsDefault":true,
+                "ID":"54f99e98-c91a-42f1-9376-6552ec8ed115",
+                "OrganizationID":"00000000-0000-0000-0000-000000000000",
+                "Title":"Morningstar Golf Course",
+                "Capacity":null,
+                "Description":null
+             }
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"7db26408-43b7-401e-a859-527f3333bcd6",
+             "Title":"Golf"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"91750360-b7a7-4357-9aa7-bd48c2c141aa",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"997f1bd0-acbe-481c-9349-e91093b382f6",
+          "GameCalendarID":"2182d650-4f51-4f14-820c-d746483996bc",
+          "PracticeCalendarID":"7bd3c6c1-4bc4-4a4d-8a21-89681e249a0f",
+          "Gender":"Girls",
+          "Title":"Girls Soccer (7/8)",
+          "DisplayTitle":"Girls Soccer",
+          "Season":"Fall",
+          "Active":false,
+          "AbbreviationTitle":"GSOC",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"f86a8073-6ada-4a8b-a5e0-9e9ffafbfd57",
+                "Title":"Middle School",
+                "Ranking":50
+             }
+          ],
+          "Facilities":[  
+             {  
+                "IsDefault":true,
+                "ID":"822cc11e-5a5f-4946-8a28-2d2e07671df6",
+                "OrganizationID":"00000000-0000-0000-0000-000000000000",
+                "Title":"Warren Central High School",
+                "Capacity":null,
+                "Description":null
+             }
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"997f1bd0-acbe-481c-9349-e91093b382f6",
+             "Title":"Soccer"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"02fd59b1-2c70-4709-a0a9-939a6a31b5e7",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"521649d4-455a-47d5-9c7e-f03adf722ba8",
+          "GameCalendarID":"edc82489-e61d-4df5-97da-bfe392db3505",
+          "PracticeCalendarID":"a408a69a-df5a-4246-a648-a75ffa8b5831",
+          "Gender":"Girls",
+          "Title":"Girls Tennis",
+          "DisplayTitle":"Girls Tennis",
+          "Season":"Spring",
+          "Active":true,
+          "AbbreviationTitle":"G-Tennis",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"f86a8073-6ada-4a8b-a5e0-9e9ffafbfd57",
+                "Title":"Middle School",
+                "Ranking":50
+             }
+          ],
+          "Facilities":[  
+             {  
+                "IsDefault":true,
+                "ID":"4a8f72e5-0e2c-4aeb-be64-1ee34f06f68f",
+                "OrganizationID":"00000000-0000-0000-0000-000000000000",
+                "Title":"Creston Middle School",
+                "Capacity":null,
+                "Description":null
+             }
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"521649d4-455a-47d5-9c7e-f03adf722ba8",
+             "Title":"Tennis"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"55c7bc2a-8513-47e7-ba10-4743951e3583",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"997f1bd0-acbe-481c-9349-e91093b382f6",
+          "GameCalendarID":"9333a44c-2d9b-4b40-bdde-b4fb94533396",
+          "PracticeCalendarID":"fd3c99a1-454f-4f3b-89b1-689d0e6beaab",
+          "Gender":"Girls",
+          "Title":"Soccer (Girls JV)",
+          "DisplayTitle":"Soccer (Girls JV)",
+          "Season":"Fall",
+          "Active":false,
+          "AbbreviationTitle":"G-SC-JV",
+          "AccountNumber":null,
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"4b25bc52-63fd-4340-88e3-3c9752e8d73b",
+                "Title":"Junior Varsity",
+                "Ranking":200
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"997f1bd0-acbe-481c-9349-e91093b382f6",
+             "Title":"Soccer"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"fe9cb104-7fa1-4796-857b-fc0f915c1923",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"0e0980c3-0d68-4c77-880c-e402336ba0e9",
+          "GameCalendarID":"943d7e37-1d35-44a3-bcd0-4a6479dfb392",
+          "PracticeCalendarID":"360ab14c-6655-4913-bce7-46e3bcbcc5f6",
+          "Gender":"Girls",
+          "Title":"Softball (JV)",
+          "DisplayTitle":"",
+          "Season":"Fall",
+          "Active":false,
+          "AbbreviationTitle":"G-So-Ju",
+          "AccountNumber":null,
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"4b25bc52-63fd-4340-88e3-3c9752e8d73b",
+                "Title":"Junior Varsity",
+                "Ranking":200
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"0e0980c3-0d68-4c77-880c-e402336ba0e9",
+             "Title":"Softball"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"d04e9d4f-0018-4079-ac12-91c5c9124f36",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"42cb8da9-ebd8-4d4c-ac24-d7699e8c14f5",
+          "GameCalendarID":"fd15134b-56c8-44d6-8044-8c5bfae4774c",
+          "PracticeCalendarID":"98c2a979-e9f7-4d64-9fd4-34f157cd8827",
+          "Gender":"Boys",
+          "Title":"Township Baseball 7th",
+          "DisplayTitle":"Township Baseball 7th",
+          "Season":"Spring",
+          "Active":true,
+          "AbbreviationTitle":"7BB",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"95825d91-7cb3-4404-9940-956f0ae0fed3",
+                "Title":"7th Grade",
+                "Ranking":0
+             }
+          ],
+          "Facilities":[  
+             {  
+                "IsDefault":true,
+                "ID":"aa8c2d81-8f4e-4f7a-bbe0-bc1223d26f91",
+                "OrganizationID":"00000000-0000-0000-0000-000000000000",
+                "Title":"Raymond Park Middle School",
+                "Capacity":null,
+                "Description":null
+             }
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"42cb8da9-ebd8-4d4c-ac24-d7699e8c14f5",
+             "Title":"Baseball"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"93f55e33-dd02-4d64-ab3e-eeeeed09ae64",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"42cb8da9-ebd8-4d4c-ac24-d7699e8c14f5",
+          "GameCalendarID":"28b5be8c-5bfe-4ee6-904e-9a2ea65c319c",
+          "PracticeCalendarID":"007bb26f-887c-4ff0-9a57-11e57c101ffa",
+          "Gender":"Boys",
+          "Title":"Township Baseball 8th",
+          "DisplayTitle":"Township Baseball 8th",
+          "Season":"Spring",
+          "Active":true,
+          "AbbreviationTitle":"8BB",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"249be5e5-8872-4619-ab4a-333768d33088",
+                "Title":"8th Grade",
+                "Ranking":0
+             }
+          ],
+          "Facilities":[  
+             {  
+                "IsDefault":true,
+                "ID":"aa8c2d81-8f4e-4f7a-bbe0-bc1223d26f91",
+                "OrganizationID":"00000000-0000-0000-0000-000000000000",
+                "Title":"Raymond Park Middle School",
+                "Capacity":null,
+                "Description":null
+             }
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"42cb8da9-ebd8-4d4c-ac24-d7699e8c14f5",
+             "Title":"Baseball"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"17694e03-15cd-40c0-a4b7-6ac39e222298",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"0e0980c3-0d68-4c77-880c-e402336ba0e9",
+          "GameCalendarID":"8cadb7c1-e731-44ca-afea-c72e8a2fa7e1",
+          "PracticeCalendarID":"985b1b29-626d-48ba-87d5-57ed6c18bf3e",
+          "Gender":"Girls",
+          "Title":"Township Softball 7th",
+          "DisplayTitle":"Township Softball 7th",
+          "Season":"Spring",
+          "Active":true,
+          "AbbreviationTitle":"7SB",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"95825d91-7cb3-4404-9940-956f0ae0fed3",
+                "Title":"7th Grade",
+                "Ranking":0
+             }
+          ],
+          "Facilities":[  
+             {  
+                "IsDefault":true,
+                "ID":"aa8c2d81-8f4e-4f7a-bbe0-bc1223d26f91",
+                "OrganizationID":"00000000-0000-0000-0000-000000000000",
+                "Title":"Raymond Park Middle School",
+                "Capacity":null,
+                "Description":null
+             }
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"0e0980c3-0d68-4c77-880c-e402336ba0e9",
+             "Title":"Softball"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"538f704b-ded7-4544-a137-8c7761007359",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"0e0980c3-0d68-4c77-880c-e402336ba0e9",
+          "GameCalendarID":"67f8e5a5-2e41-4203-90d4-2fbc7121cf7b",
+          "PracticeCalendarID":"4f11aaa8-dfb1-4531-96f1-0250d1d8fb4a",
+          "Gender":"Girls",
+          "Title":"Township Softball 8th",
+          "DisplayTitle":"Township Softball 8th",
+          "Season":"Spring",
+          "Active":true,
+          "AbbreviationTitle":"8SB",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"249be5e5-8872-4619-ab4a-333768d33088",
+                "Title":"8th Grade",
+                "Ranking":0
+             }
+          ],
+          "Facilities":[  
+             {  
+                "IsDefault":true,
+                "ID":"aa8c2d81-8f4e-4f7a-bbe0-bc1223d26f91",
+                "OrganizationID":"00000000-0000-0000-0000-000000000000",
+                "Title":"Raymond Park Middle School",
+                "Capacity":null,
+                "Description":null
+             }
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"0e0980c3-0d68-4c77-880c-e402336ba0e9",
+             "Title":"Softball"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"57d5261a-4ff4-417d-b172-93c054d6a157",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"528b2767-8778-48ad-aa86-d1bc53db9343",
+          "GameCalendarID":"32ab0e83-1cf0-47e9-9ec8-e14132cafd6f",
+          "PracticeCalendarID":"c49e7477-6374-4aaf-a11a-e0032a34b4e9",
+          "Gender":"Girls",
+          "Title":"Volleyball (7/8)",
+          "DisplayTitle":"Volleyball (7/8)",
+          "Season":"Fall",
+          "Active":true,
+          "AbbreviationTitle":"VB",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"f86a8073-6ada-4a8b-a5e0-9e9ffafbfd57",
+                "Title":"Middle School",
+                "Ranking":50
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"528b2767-8778-48ad-aa86-d1bc53db9343",
+             "Title":"Volleyball"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"54bf1c6d-c76b-43ea-a6e2-12aca0c1ab80",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"528b2767-8778-48ad-aa86-d1bc53db9343",
+          "GameCalendarID":"e4df5770-cec5-4e67-a630-7d2d871cb09d",
+          "PracticeCalendarID":"42b6ab56-234f-421b-863e-cae641415241",
+          "Gender":"Girls",
+          "Title":"Volleyball (Girls JV)",
+          "DisplayTitle":"Volleybal (Girls JV)",
+          "Season":"Fall",
+          "Active":false,
+          "AbbreviationTitle":"G-VB-JV",
+          "AccountNumber":null,
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"4b25bc52-63fd-4340-88e3-3c9752e8d73b",
+                "Title":"Junior Varsity",
+                "Ranking":200
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"528b2767-8778-48ad-aa86-d1bc53db9343",
+             "Title":"Volleyball"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"144c1409-0049-4db1-9eb1-7304a17e52b8",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"528b2767-8778-48ad-aa86-d1bc53db9343",
+          "GameCalendarID":"46d03b1f-1b3c-499c-93e1-9162c6799ba9",
+          "PracticeCalendarID":"f4eb9d98-b4fe-43df-9d0e-03ee1d8c1967",
+          "Gender":"Girls",
+          "Title":"Volleyball (Girls Varsity)",
+          "DisplayTitle":"Volleyball (Girls V)",
+          "Season":"Fall",
+          "Active":false,
+          "AbbreviationTitle":"G-VB-V",
+          "AccountNumber":null,
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"2936d12f-75dc-4be6-923a-7fb9ffb3bd06",
+                "Title":"Varsity",
+                "Ranking":300
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"528b2767-8778-48ad-aa86-d1bc53db9343",
+             "Title":"Volleyball"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"99c0142a-0c22-409e-b82f-b1cfe1cd8dcb",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"fb691caf-bed1-42e8-b693-545b38fcd0b2",
+          "GameCalendarID":"659a9c7f-a208-427e-a06f-887ce110480b",
+          "PracticeCalendarID":"fb421f30-8981-41f4-8931-ca60efb4632f",
+          "Gender":"Boys",
+          "Title":"Wrestling",
+          "DisplayTitle":"Wrestling",
+          "Season":"Winter",
+          "Active":true,
+          "AbbreviationTitle":"BW",
+          "AccountNumber":"",
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"f86a8073-6ada-4a8b-a5e0-9e9ffafbfd57",
+                "Title":"Middle School",
+                "Ranking":50
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"fb691caf-bed1-42e8-b693-545b38fcd0b2",
+             "Title":"Wrestling"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       },
+       {  
+          "ID":"d8236195-8e3b-46c5-8dae-5a74541f6242",
+          "OrganizationID":"3703fb29-4581-47d0-9859-25a7c69da004",
+          "SportID":"fb691caf-bed1-42e8-b693-545b38fcd0b2",
+          "GameCalendarID":"dc66f2f3-9a56-4b16-97c8-5414fdf235d0",
+          "PracticeCalendarID":"a760395a-eaf1-40d9-ad4c-ceab2842ce3c",
+          "Gender":"Boys",
+          "Title":"Wrestling (Boys JV)",
+          "DisplayTitle":"Wrestling (Boys JV)",
+          "Season":"Winter",
+          "Active":false,
+          "AbbreviationTitle":"B-W-JV",
+          "AccountNumber":null,
+          "DefaultDuration":2.00,
+          "OfficialFees":0.0000,
+          "OfficialExpenses":0.0000,
+          "Levels":[  
+             {  
+                "IsDefault":true,
+                "ID":"4b25bc52-63fd-4340-88e3-3c9752e8d73b",
+                "Title":"Junior Varsity",
+                "Ranking":200
+             }
+          ],
+          "Facilities":[  
+ 
+          ],
+          "Assigners":[  
+ 
+          ],
+          "Sport":{  
+             "ID":"fb691caf-bed1-42e8-b693-545b38fcd0b2",
+             "Title":"Wrestling"
+          },
+          "Organization":{  
+             "ID":"3703fb29-4581-47d0-9859-25a7c69da004",
+             "Title":"Creston Intermediate & Middle School",
+             "TimeZone":"America/New_York"
+          }
+       }
+    ],
+    "Meta":null,
+    "Error":null
+ }
+ 
