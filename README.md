@@ -16,3 +16,4 @@ Repository of the various projects I have undertaken in python, mainly for machi
 - **sysinfo** - (7 Aug 2019) pull a system diagnostic report
 - **EventLink** - (7 Aug 2019) a python script that scrapes my district's event manager and provides direct links to all events for our sports teams
 - **Medium** - (10 Oct 2019) random code I have done after reading articles on Medium
+- **Udemy** - (18 Oct 2019) code that I complete in Udemy courses
