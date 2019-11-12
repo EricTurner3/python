@@ -91,7 +91,7 @@ df = pd.read_json(new_json)
 
 #print(df.head())
 group_by_username = df.groupby('userName')['userName'].count()
-print(group_by_username.sort_values(ascending=False))
+#print(group_by_username.sort_values(ascending=False))
 # export to csv
 export = pd.DataFrame(group_by_username.sort_values(ascending=False))
 export.to_csv('results.csv')
