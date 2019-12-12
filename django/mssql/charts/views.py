@@ -44,7 +44,7 @@ def home(request):
     source = ColumnDataSource(data=dict(issue_list=issue_list, count=count, color=viridis(len(issue_list))))
 
     # set up a plot and barchart
-    plot = figure(x_range=issue_list, plot_height=800, plot_width=1200, title="Damage Counts",
+    plot = figure(x_range=issue_list, plot_height=800, plot_width=1000, title="Damage Counts",
            toolbar_location="right", tools="pan,wheel_zoom,box_zoom,reset, hover, tap, crosshair")
     # add the bar chart
     plot.vbar(x='issue_list', top='count', width=.4, color= "color", legend="issue_list", source=source)
