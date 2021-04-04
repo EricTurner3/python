@@ -1,0 +1,2912 @@
+[
+      {
+            "id": "5ce2bd6e3934cc0011eda602",
+            "crapiId": "109542",
+            "name": "Indianapolis Metropolitan Police Department CR",
+            "center": {
+                  "coordinates": [
+                        -86.152951,
+                        39.768479
+                  ],
+                  "_id": "5ee9efbea1c2480013def18f",
+                  "type": "Point"
+            },
+            "cameraPinLat": 39.9242,
+            "cameraPinLng": -86.3261,
+            "updatedAt": "2021-04-03T18:05:38.000Z",
+            "city": "Indianapolis",
+            "state": "IN",
+            "zip": "46204",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "indy.gov",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": "",
+            "reports": [
+                  {
+                        "_id": "5e467dfa8f26e9001116fc94",
+                        "generationDate": "2020-02-14T10:45:06.493Z",
+                        "filename": "109542-01.2017-04.2017.csv",
+                        "targetPeriodStart": "2017-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e467dfa8f26e9001116fc93",
+                        "generationDate": "2020-02-14T10:45:12.182Z",
+                        "filename": "109542-04.2017-07.2017.csv",
+                        "targetPeriodStart": "2017-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e467dfa8f26e9001116fc92",
+                        "generationDate": "2020-02-14T10:45:18.087Z",
+                        "filename": "109542-07.2017-10.2017.csv",
+                        "targetPeriodStart": "2017-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e467dfa8f26e9001116fc91",
+                        "generationDate": "2020-02-14T10:45:24.518Z",
+                        "filename": "109542-10.2017-01.2018.csv",
+                        "targetPeriodStart": "2017-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e467dfa8f26e9001116fc90",
+                        "generationDate": "2020-02-14T10:45:30.263Z",
+                        "filename": "109542-01.2018-04.2018.csv",
+                        "targetPeriodStart": "2018-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e467dfa8f26e9001116fc8f",
+                        "generationDate": "2020-02-14T10:45:36.664Z",
+                        "filename": "109542-04.2018-07.2018.csv",
+                        "targetPeriodStart": "2018-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e467dfa8f26e9001116fc8e",
+                        "generationDate": "2020-02-14T10:45:42.663Z",
+                        "filename": "109542-07.2018-10.2018.csv",
+                        "targetPeriodStart": "2018-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e467dfa8f26e9001116fc8d",
+                        "generationDate": "2020-02-14T10:45:48.647Z",
+                        "filename": "109542-10.2018-01.2019.csv",
+                        "targetPeriodStart": "2018-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e467dfa8f26e9001116fc8c",
+                        "generationDate": "2020-02-14T10:49:20.754Z",
+                        "filename": "109542-01.2019-04.2019.csv",
+                        "targetPeriodStart": "2019-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e467dfa8f26e9001116fc8b",
+                        "generationDate": "2020-02-14T10:53:00.597Z",
+                        "filename": "109542-04.2019-07.2019.csv",
+                        "targetPeriodStart": "2019-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e467dfa8f26e9001116fc8a",
+                        "generationDate": "2020-02-14T10:57:10.170Z",
+                        "filename": "109542-07.2019-10.2019.csv",
+                        "targetPeriodStart": "2019-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e467dfa8f26e9001116fc89",
+                        "generationDate": "2020-02-14T11:01:14.717Z",
+                        "filename": "109542-10.2019-01.2020.csv",
+                        "targetPeriodStart": "2019-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e84719631ca8000115f229f",
+                        "generationDate": "2020-04-01T10:48:54.878Z",
+                        "filename": "109542-01.2020-04.2020.csv",
+                        "targetPeriodStart": "2020-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f18197b7434010013f54238",
+                        "generationDate": "2020-07-22T10:48:27.631Z",
+                        "filename": "109542-04.2020-07.2020.csv",
+                        "targetPeriodStart": "2020-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f75b4311e83150011ce8ae4",
+                        "generationDate": "2020-10-01T10:49:21.265Z",
+                        "filename": "109542-07.2020-10.2020.csv",
+                        "targetPeriodStart": "2020-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5feefe662923ff0011197239",
+                        "generationDate": "2021-01-01T10:50:14.741Z",
+                        "filename": "109542-10.2020-01.2021.csv",
+                        "targetPeriodStart": "2020-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "6065a56345c3260011c6102d",
+                        "generationDate": "2021-04-01T10:50:11.218Z",
+                        "filename": "109542-01.2021-04.2021.csv",
+                        "targetPeriodStart": "2021-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-04-01T00:00:00.000Z",
+                        "available": true
+                  }
+            ],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "UPLOAD",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULK_DOWNLOAD",
+                  "TIP_URL",
+                  "BULLETIN",
+                  "CAMERA_REGISTRATION"
+            ],
+            "agencyBadgeUrl": "",
+            "agencyName": "Indianapolis Metropolitan Police Department",
+            "customTippingUrl": "https://www.p3tips.com/tipform.aspx?ID=655&C=000000",
+            "agencyPathName": "impd",
+            "bulkDownload": true,
+            "tippingEnabled": true,
+            "_id": "5ce2bd6e3934cc0011eda602"
+      },
+      {
+            "id": "5ce2bd6e3934cc0011eda60e",
+            "crapiId": "108043",
+            "name": "Gary Police Department",
+            "center": {
+                  "coordinates": [
+                        -87.349241,
+                        41.600869
+                  ],
+                  "_id": "5ee9ef78c496a8001320b9e0",
+                  "type": "Point"
+            },
+            "cameraPinLat": 41.6518,
+            "cameraPinLng": -87.4315,
+            "updatedAt": "2021-04-03T18:13:49.000Z",
+            "city": "Gary",
+            "state": "IN",
+            "zip": "46402",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "garypolice.us",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": null,
+            "reports": [],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULLETIN"
+            ],
+            "agencyBadgeUrl": "",
+            "agencyName": "Gary Police Department",
+            "customTippingUrl": "",
+            "agencyPathName": "8cf90c1f-1a56-4c65-936f-7cc642d19167",
+            "bulkDownload": false,
+            "tippingEnabled": false,
+            "_id": "5ce2bd6e3934cc0011eda60e"
+      },
+      {
+            "id": "5ce2bd6e3934cc0011eda61c",
+            "crapiId": "107287",
+            "name": "Sheridan Police Department",
+            "center": {
+                  "coordinates": [
+                        -86.22078,
+                        40.134123
+                  ],
+                  "_id": "5ee9f119f5796e00130ed3a4",
+                  "type": "Point"
+            },
+            "cameraPinLat": 40.1422,
+            "cameraPinLng": -86.2326,
+            "updatedAt": "2021-04-03T18:06:16.000Z",
+            "city": "Sheridan",
+            "state": "IN",
+            "zip": "46069",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "sheridanpd.org",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": null,
+            "reports": [
+                  {
+                        "_id": "5e452377c2dd47001116cd85",
+                        "generationDate": "2020-02-13T10:22:26.970Z",
+                        "filename": "107287-01.2017-04.2017.csv",
+                        "targetPeriodStart": "2017-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452377c2dd47001116cd84",
+                        "generationDate": "2020-02-13T10:22:28.798Z",
+                        "filename": "107287-04.2017-07.2017.csv",
+                        "targetPeriodStart": "2017-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452377c2dd47001116cd83",
+                        "generationDate": "2020-02-13T10:22:30.821Z",
+                        "filename": "107287-07.2017-10.2017.csv",
+                        "targetPeriodStart": "2017-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452377c2dd47001116cd82",
+                        "generationDate": "2020-02-13T10:22:32.800Z",
+                        "filename": "107287-10.2017-01.2018.csv",
+                        "targetPeriodStart": "2017-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452377c2dd47001116cd81",
+                        "generationDate": "2020-02-13T10:22:34.917Z",
+                        "filename": "107287-01.2018-04.2018.csv",
+                        "targetPeriodStart": "2018-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452377c2dd47001116cd80",
+                        "generationDate": "2020-02-13T10:22:36.601Z",
+                        "filename": "107287-04.2018-07.2018.csv",
+                        "targetPeriodStart": "2018-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452377c2dd47001116cd7f",
+                        "generationDate": "2020-02-13T10:22:37.757Z",
+                        "filename": "107287-07.2018-10.2018.csv",
+                        "targetPeriodStart": "2018-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452377c2dd47001116cd7e",
+                        "generationDate": "2020-02-13T10:22:40.163Z",
+                        "filename": "107287-10.2018-01.2019.csv",
+                        "targetPeriodStart": "2018-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452377c2dd47001116cd7d",
+                        "generationDate": "2020-02-13T10:22:42.208Z",
+                        "filename": "107287-01.2019-04.2019.csv",
+                        "targetPeriodStart": "2019-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452377c2dd47001116cd7c",
+                        "generationDate": "2020-02-13T10:22:44.116Z",
+                        "filename": "107287-04.2019-07.2019.csv",
+                        "targetPeriodStart": "2019-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452377c2dd47001116cd7b",
+                        "generationDate": "2020-02-13T10:22:46.024Z",
+                        "filename": "107287-07.2019-10.2019.csv",
+                        "targetPeriodStart": "2019-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452377c2dd47001116cd7a",
+                        "generationDate": "2020-02-13T10:22:47.931Z",
+                        "filename": "107287-10.2019-01.2020.csv",
+                        "targetPeriodStart": "2019-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e84719f31ca8000115f22e0",
+                        "generationDate": "2020-04-01T10:49:03.740Z",
+                        "filename": "107287-01.2020-04.2020.csv",
+                        "targetPeriodStart": "2020-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5efc693ac745ac001340c2f9",
+                        "generationDate": "2020-07-01T10:45:14.802Z",
+                        "filename": "107287-04.2020-07.2020.csv",
+                        "targetPeriodStart": "2020-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f75b4431e83150011ce8b75",
+                        "generationDate": "2020-10-01T10:49:39.656Z",
+                        "filename": "107287-07.2020-10.2020.csv",
+                        "targetPeriodStart": "2020-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5feefe752923ff00111972b6",
+                        "generationDate": "2021-01-01T10:50:29.754Z",
+                        "filename": "107287-10.2020-01.2021.csv",
+                        "targetPeriodStart": "2020-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "6065a58845c3260011c61141",
+                        "generationDate": "2021-04-01T10:50:48.780Z",
+                        "filename": "107287-01.2021-04.2021.csv",
+                        "targetPeriodStart": "2021-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-04-01T00:00:00.000Z",
+                        "available": true
+                  }
+            ],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULK_DOWNLOAD",
+                  "TIP_URL",
+                  "BULLETIN",
+                  "CAMERA_REGISTRATION"
+            ],
+            "agencyBadgeUrl": "",
+            "agencyName": "Sheridan Police Department IN",
+            "customTippingUrl": "",
+            "agencyPathName": "9e5e11c7-c241-4e87-b7fc-3a69182023c2",
+            "bulkDownload": true,
+            "tippingEnabled": false,
+            "_id": "5ce2bd6e3934cc0011eda61c"
+      },
+      {
+            "id": "5ce2bd6e3934cc0011eda61d",
+            "crapiId": "107286",
+            "name": "Arcadia Police Department",
+            "center": {
+                  "coordinates": [
+                        -86.02368,
+                        40.176023
+                  ],
+                  "_id": "5ee9edae4bd9f600130fc814",
+                  "type": "Point"
+            },
+            "cameraPinLat": 40.1774,
+            "cameraPinLng": -86.0322,
+            "updatedAt": "2021-04-03T18:06:14.000Z",
+            "city": "Arcadia",
+            "state": "IN",
+            "zip": "46030",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "arcadiaindiana.org",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": null,
+            "reports": [
+                  {
+                        "_id": "5e452387c2dd47001116cdd3",
+                        "generationDate": "2020-02-13T10:22:49.705Z",
+                        "filename": "107286-01.2017-04.2017.csv",
+                        "targetPeriodStart": "2017-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452387c2dd47001116cdd2",
+                        "generationDate": "2020-02-13T10:22:50.934Z",
+                        "filename": "107286-04.2017-07.2017.csv",
+                        "targetPeriodStart": "2017-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452387c2dd47001116cdd1",
+                        "generationDate": "2020-02-13T10:22:52.471Z",
+                        "filename": "107286-07.2017-10.2017.csv",
+                        "targetPeriodStart": "2017-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452387c2dd47001116cdd0",
+                        "generationDate": "2020-02-13T10:22:53.710Z",
+                        "filename": "107286-10.2017-01.2018.csv",
+                        "targetPeriodStart": "2017-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452387c2dd47001116cdcf",
+                        "generationDate": "2020-02-13T10:22:54.768Z",
+                        "filename": "107286-01.2018-04.2018.csv",
+                        "targetPeriodStart": "2018-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452387c2dd47001116cdce",
+                        "generationDate": "2020-02-13T10:22:55.883Z",
+                        "filename": "107286-04.2018-07.2018.csv",
+                        "targetPeriodStart": "2018-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452387c2dd47001116cdcd",
+                        "generationDate": "2020-02-13T10:22:56.866Z",
+                        "filename": "107286-07.2018-10.2018.csv",
+                        "targetPeriodStart": "2018-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452387c2dd47001116cdcc",
+                        "generationDate": "2020-02-13T10:22:57.955Z",
+                        "filename": "107286-10.2018-01.2019.csv",
+                        "targetPeriodStart": "2018-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452387c2dd47001116cdcb",
+                        "generationDate": "2020-02-13T10:22:59.061Z",
+                        "filename": "107286-01.2019-04.2019.csv",
+                        "targetPeriodStart": "2019-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452387c2dd47001116cdca",
+                        "generationDate": "2020-02-13T10:23:00.137Z",
+                        "filename": "107286-04.2019-07.2019.csv",
+                        "targetPeriodStart": "2019-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452387c2dd47001116cdc9",
+                        "generationDate": "2020-02-13T10:23:01.292Z",
+                        "filename": "107286-07.2019-10.2019.csv",
+                        "targetPeriodStart": "2019-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452387c2dd47001116cdc8",
+                        "generationDate": "2020-02-13T10:23:03.218Z",
+                        "filename": "107286-10.2019-01.2020.csv",
+                        "targetPeriodStart": "2019-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e8471a131ca8000115f22ed",
+                        "generationDate": "2020-04-01T10:49:05.762Z",
+                        "filename": "107286-01.2020-04.2020.csv",
+                        "targetPeriodStart": "2020-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5efc693dc745ac001340c307",
+                        "generationDate": "2020-07-01T10:45:17.182Z",
+                        "filename": "107286-04.2020-07.2020.csv",
+                        "targetPeriodStart": "2020-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f75b4451e83150011ce8b92",
+                        "generationDate": "2020-10-01T10:49:41.975Z",
+                        "filename": "107286-07.2020-10.2020.csv",
+                        "targetPeriodStart": "2020-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5feefe782923ff00111972d5",
+                        "generationDate": "2021-01-01T10:50:32.903Z",
+                        "filename": "107286-10.2020-01.2021.csv",
+                        "targetPeriodStart": "2020-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "6065a58c45c3260011c61162",
+                        "generationDate": "2021-04-01T10:50:52.290Z",
+                        "filename": "107286-01.2021-04.2021.csv",
+                        "targetPeriodStart": "2021-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-04-01T00:00:00.000Z",
+                        "available": true
+                  }
+            ],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULK_DOWNLOAD",
+                  "TIP_URL",
+                  "BULLETIN",
+                  "CAMERA_REGISTRATION"
+            ],
+            "agencyBadgeUrl": "",
+            "agencyName": "Arcadia Police Department",
+            "customTippingUrl": "",
+            "agencyPathName": "973eace0-866d-4f1f-99f8-af1922414682",
+            "bulkDownload": true,
+            "tippingEnabled": false,
+            "_id": "5ce2bd6e3934cc0011eda61d"
+      },
+      {
+            "id": "5ce2bd6e3934cc0011eda61e",
+            "crapiId": "107285",
+            "name": "Fishers Police Department",
+            "center": {
+                  "coordinates": [
+                        -85.994307,
+                        39.982694
+                  ],
+                  "_id": "5ee9ef5df5796e00130ed32d",
+                  "type": "Point"
+            },
+            "cameraPinLat": 39.9702,
+            "cameraPinLng": -86.0467,
+            "updatedAt": "2021-04-03T18:06:33.000Z",
+            "city": "Fishers",
+            "state": "IN",
+            "zip": "46038",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "fishers.in.us",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": null,
+            "reports": [
+                  {
+                        "_id": "5e4523ebc2dd47001116fa93",
+                        "generationDate": "2020-02-13T10:23:03.951Z",
+                        "filename": "107285-01.2017-04.2017.csv",
+                        "targetPeriodStart": "2017-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523ebc2dd47001116fa92",
+                        "generationDate": "2020-02-13T10:23:04.641Z",
+                        "filename": "107285-04.2017-07.2017.csv",
+                        "targetPeriodStart": "2017-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523ebc2dd47001116fa91",
+                        "generationDate": "2020-02-13T10:23:05.331Z",
+                        "filename": "107285-07.2017-10.2017.csv",
+                        "targetPeriodStart": "2017-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523ebc2dd47001116fa90",
+                        "generationDate": "2020-02-13T10:23:05.957Z",
+                        "filename": "107285-10.2017-01.2018.csv",
+                        "targetPeriodStart": "2017-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523ebc2dd47001116fa8f",
+                        "generationDate": "2020-02-13T10:23:19.795Z",
+                        "filename": "107285-01.2018-04.2018.csv",
+                        "targetPeriodStart": "2018-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523ebc2dd47001116fa8e",
+                        "generationDate": "2020-02-13T10:23:30.872Z",
+                        "filename": "107285-04.2018-07.2018.csv",
+                        "targetPeriodStart": "2018-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523ebc2dd47001116fa8d",
+                        "generationDate": "2020-02-13T10:23:34.212Z",
+                        "filename": "107285-07.2018-10.2018.csv",
+                        "targetPeriodStart": "2018-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523ebc2dd47001116fa8c",
+                        "generationDate": "2020-02-13T10:23:46.200Z",
+                        "filename": "107285-10.2018-01.2019.csv",
+                        "targetPeriodStart": "2018-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523ebc2dd47001116fa8b",
+                        "generationDate": "2020-02-13T10:23:58.566Z",
+                        "filename": "107285-01.2019-04.2019.csv",
+                        "targetPeriodStart": "2019-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523ebc2dd47001116fa8a",
+                        "generationDate": "2020-02-13T10:24:18.774Z",
+                        "filename": "107285-04.2019-07.2019.csv",
+                        "targetPeriodStart": "2019-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523ebc2dd47001116fa89",
+                        "generationDate": "2020-02-13T10:24:31.623Z",
+                        "filename": "107285-07.2019-10.2019.csv",
+                        "targetPeriodStart": "2019-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523ebc2dd47001116fa88",
+                        "generationDate": "2020-02-13T10:24:43.029Z",
+                        "filename": "107285-10.2019-01.2020.csv",
+                        "targetPeriodStart": "2019-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e8471ad31ca8000115f22fa",
+                        "generationDate": "2020-04-01T10:49:17.728Z",
+                        "filename": "107285-01.2020-04.2020.csv",
+                        "targetPeriodStart": "2020-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5efc6948c745ac001340c315",
+                        "generationDate": "2020-07-01T10:45:28.287Z",
+                        "filename": "107285-04.2020-07.2020.csv",
+                        "targetPeriodStart": "2020-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f75b4521e83150011ce8bbd",
+                        "generationDate": "2020-10-01T10:49:54.793Z",
+                        "filename": "107285-07.2020-10.2020.csv",
+                        "targetPeriodStart": "2020-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5feefe8c2923ff0011197321",
+                        "generationDate": "2021-01-01T10:50:52.705Z",
+                        "filename": "107285-10.2020-01.2021.csv",
+                        "targetPeriodStart": "2020-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "6065a59d45c3260011c611e3",
+                        "generationDate": "2021-04-01T10:51:09.688Z",
+                        "filename": "107285-01.2021-04.2021.csv",
+                        "targetPeriodStart": "2021-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-04-01T00:00:00.000Z",
+                        "available": true
+                  }
+            ],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "UPLOAD",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULK_DOWNLOAD",
+                  "TIP_URL",
+                  "BULLETIN",
+                  "CAMERA_REGISTRATION"
+            ],
+            "agencyBadgeUrl": "",
+            "agencyName": "Fishers Police Department",
+            "customTippingUrl": "",
+            "agencyPathName": "70d8655a-838f-466e-8451-9d21177cbd04",
+            "bulkDownload": true,
+            "tippingEnabled": true,
+            "_id": "5ce2bd6e3934cc0011eda61e"
+      },
+      {
+            "id": "5ce2bd6f3934cc0011eda61f",
+            "crapiId": "107283",
+            "name": "Cicero Police Department",
+            "center": {
+                  "coordinates": [
+                        -86.01504,
+                        40.131564
+                  ],
+                  "_id": "5ee9ee6ca1c2480013def14f",
+                  "type": "Point"
+            },
+            "cameraPinLat": 40.1467,
+            "cameraPinLng": -86.0323,
+            "updatedAt": "2021-04-03T18:06:15.000Z",
+            "city": "Cicero",
+            "state": "IN",
+            "zip": "46034",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "ciceroin.org",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": null,
+            "reports": [
+                  {
+                        "_id": "5e4523fdc2dd47001116fae1",
+                        "generationDate": "2020-02-13T10:24:44.945Z",
+                        "filename": "107283-01.2017-04.2017.csv",
+                        "targetPeriodStart": "2017-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523fdc2dd47001116fae0",
+                        "generationDate": "2020-02-13T10:24:46.224Z",
+                        "filename": "107283-04.2017-07.2017.csv",
+                        "targetPeriodStart": "2017-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523fdc2dd47001116fadf",
+                        "generationDate": "2020-02-13T10:24:47.966Z",
+                        "filename": "107283-07.2017-10.2017.csv",
+                        "targetPeriodStart": "2017-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523fdc2dd47001116fade",
+                        "generationDate": "2020-02-13T10:24:49.208Z",
+                        "filename": "107283-10.2017-01.2018.csv",
+                        "targetPeriodStart": "2017-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523fdc2dd47001116fadd",
+                        "generationDate": "2020-02-13T10:24:50.457Z",
+                        "filename": "107283-01.2018-04.2018.csv",
+                        "targetPeriodStart": "2018-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523fdc2dd47001116fadc",
+                        "generationDate": "2020-02-13T10:24:51.711Z",
+                        "filename": "107283-04.2018-07.2018.csv",
+                        "targetPeriodStart": "2018-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523fdc2dd47001116fadb",
+                        "generationDate": "2020-02-13T10:24:52.835Z",
+                        "filename": "107283-07.2018-10.2018.csv",
+                        "targetPeriodStart": "2018-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523fdc2dd47001116fada",
+                        "generationDate": "2020-02-13T10:24:54.166Z",
+                        "filename": "107283-10.2018-01.2019.csv",
+                        "targetPeriodStart": "2018-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523fdc2dd47001116fad9",
+                        "generationDate": "2020-02-13T10:24:55.960Z",
+                        "filename": "107283-01.2019-04.2019.csv",
+                        "targetPeriodStart": "2019-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523fdc2dd47001116fad8",
+                        "generationDate": "2020-02-13T10:24:58.075Z",
+                        "filename": "107283-04.2019-07.2019.csv",
+                        "targetPeriodStart": "2019-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523fdc2dd47001116fad7",
+                        "generationDate": "2020-02-13T10:25:00.390Z",
+                        "filename": "107283-07.2019-10.2019.csv",
+                        "targetPeriodStart": "2019-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4523fdc2dd47001116fad6",
+                        "generationDate": "2020-02-13T10:25:01.635Z",
+                        "filename": "107283-10.2019-01.2020.csv",
+                        "targetPeriodStart": "2019-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e8471af31ca8000115f2307",
+                        "generationDate": "2020-04-01T10:49:19.159Z",
+                        "filename": "107283-01.2020-04.2020.csv",
+                        "targetPeriodStart": "2020-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5efc6949c745ac001340c323",
+                        "generationDate": "2020-07-01T10:45:29.864Z",
+                        "filename": "107283-04.2020-07.2020.csv",
+                        "targetPeriodStart": "2020-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f75b4551e83150011ce8bcc",
+                        "generationDate": "2020-10-01T10:49:57.183Z",
+                        "filename": "107283-07.2020-10.2020.csv",
+                        "targetPeriodStart": "2020-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5feefe8f2923ff001119734f",
+                        "generationDate": "2021-01-01T10:50:55.842Z",
+                        "filename": "107283-10.2020-01.2021.csv",
+                        "targetPeriodStart": "2020-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "6065a5a045c3260011c61204",
+                        "generationDate": "2021-04-01T10:51:12.926Z",
+                        "filename": "107283-01.2021-04.2021.csv",
+                        "targetPeriodStart": "2021-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-04-01T00:00:00.000Z",
+                        "available": true
+                  }
+            ],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULK_DOWNLOAD",
+                  "TIP_URL",
+                  "BULLETIN",
+                  "CAMERA_REGISTRATION"
+            ],
+            "agencyBadgeUrl": "",
+            "agencyName": "Cicero Police Department",
+            "customTippingUrl": "",
+            "agencyPathName": "cc0d9a3d-50b2-4424-ae25-5699ba6eaff9",
+            "bulkDownload": true,
+            "tippingEnabled": false,
+            "_id": "5ce2bd6f3934cc0011eda61f"
+      },
+      {
+            "id": "5ce2bd6f3934cc0011eda620",
+            "crapiId": "107282",
+            "name": "Carmel Police Department",
+            "center": {
+                  "coordinates": [
+                        -86.127743,
+                        39.96656
+                  ],
+                  "_id": "5fad9b4400b63b0011c78a2b",
+                  "type": "Point"
+            },
+            "cameraPinLat": 39.9987,
+            "cameraPinLng": -86.2421,
+            "updatedAt": "2021-04-03T18:06:33.000Z",
+            "city": "Carmel",
+            "state": "IN",
+            "zip": "46032",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "carmel.in.gov",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": null,
+            "reports": [
+                  {
+                        "_id": "5e452494c2dd470011172737",
+                        "generationDate": "2020-02-13T10:25:15.569Z",
+                        "filename": "107282-01.2017-04.2017.csv",
+                        "targetPeriodStart": "2017-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452494c2dd470011172736",
+                        "generationDate": "2020-02-13T10:25:30.480Z",
+                        "filename": "107282-04.2017-07.2017.csv",
+                        "targetPeriodStart": "2017-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452494c2dd470011172735",
+                        "generationDate": "2020-02-13T10:25:42.077Z",
+                        "filename": "107282-07.2017-10.2017.csv",
+                        "targetPeriodStart": "2017-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452494c2dd470011172734",
+                        "generationDate": "2020-02-13T10:25:42.942Z",
+                        "filename": "107282-10.2017-01.2018.csv",
+                        "targetPeriodStart": "2017-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452494c2dd470011172733",
+                        "generationDate": "2020-02-13T10:25:56.466Z",
+                        "filename": "107282-01.2018-04.2018.csv",
+                        "targetPeriodStart": "2018-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452494c2dd470011172732",
+                        "generationDate": "2020-02-13T10:26:13.681Z",
+                        "filename": "107282-04.2018-07.2018.csv",
+                        "targetPeriodStart": "2018-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452494c2dd470011172731",
+                        "generationDate": "2020-02-13T10:26:18.578Z",
+                        "filename": "107282-07.2018-10.2018.csv",
+                        "targetPeriodStart": "2018-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452494c2dd470011172730",
+                        "generationDate": "2020-02-13T10:26:30.583Z",
+                        "filename": "107282-10.2018-01.2019.csv",
+                        "targetPeriodStart": "2018-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452494c2dd47001117272f",
+                        "generationDate": "2020-02-13T10:26:45.453Z",
+                        "filename": "107282-01.2019-04.2019.csv",
+                        "targetPeriodStart": "2019-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452494c2dd47001117272e",
+                        "generationDate": "2020-02-13T10:27:00.677Z",
+                        "filename": "107282-04.2019-07.2019.csv",
+                        "targetPeriodStart": "2019-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452494c2dd47001117272d",
+                        "generationDate": "2020-02-13T10:27:16.703Z",
+                        "filename": "107282-07.2019-10.2019.csv",
+                        "targetPeriodStart": "2019-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452494c2dd47001117272c",
+                        "generationDate": "2020-02-13T10:27:32.066Z",
+                        "filename": "107282-10.2019-01.2020.csv",
+                        "targetPeriodStart": "2019-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e8471be31ca8000115f2314",
+                        "generationDate": "2020-04-01T10:49:34.180Z",
+                        "filename": "107282-01.2020-04.2020.csv",
+                        "targetPeriodStart": "2020-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5efc6958c745ac001340c331",
+                        "generationDate": "2020-07-01T10:45:44.435Z",
+                        "filename": "107282-04.2020-07.2020.csv",
+                        "targetPeriodStart": "2020-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f75b4661e83150011ce8c7c",
+                        "generationDate": "2020-10-01T10:50:14.150Z",
+                        "filename": "107282-07.2020-10.2020.csv",
+                        "targetPeriodStart": "2020-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5feefeaa2923ff00111973c8",
+                        "generationDate": "2021-01-01T10:51:22.510Z",
+                        "filename": "107282-10.2020-01.2021.csv",
+                        "targetPeriodStart": "2020-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "6065a5be45c3260011c61245",
+                        "generationDate": "2021-04-01T10:51:42.823Z",
+                        "filename": "107282-01.2021-04.2021.csv",
+                        "targetPeriodStart": "2021-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-04-01T00:00:00.000Z",
+                        "available": true
+                  }
+            ],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULK_DOWNLOAD",
+                  "TIP_URL",
+                  "BULLETIN",
+                  "CAMERA_REGISTRATION"
+            ],
+            "agencyBadgeUrl": "https://agencyconfigurationprod.blob.core.windows.net/images/758b9b35-c88f-412f-8d00-0b724aadfe34",
+            "agencyName": "Carmel Police Department",
+            "customTippingUrl": "https://www.carmel.in.gov/government/departments-services/police/contact-us/submit-a-crime-tip",
+            "agencyPathName": "carmelpd",
+            "bulkDownload": true,
+            "tippingEnabled": true,
+            "_id": "5ce2bd6f3934cc0011eda620"
+      },
+      {
+            "id": "5ce2bd6f3934cc0011eda621",
+            "crapiId": "107281",
+            "name": "Hamilton County Sheriff",
+            "center": {
+                  "coordinates": [
+                        -85.993241,
+                        40.052084
+                  ],
+                  "_id": "5ee9ef9ac496a8001320b9ef",
+                  "type": "Point"
+            },
+            "cameraPinLat": 40.2194,
+            "cameraPinLng": -86.2434,
+            "updatedAt": "2021-04-03T18:06:27.000Z",
+            "city": "Noblesville",
+            "state": "IN",
+            "zip": "46060",
+            "type": "Sheriff Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "hamiltoncounty.in.gov",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": null,
+            "reports": [
+                  {
+                        "_id": "5e4524cfc2dd47001117538d",
+                        "generationDate": "2020-02-13T10:27:32.656Z",
+                        "filename": "107281-01.2017-04.2017.csv",
+                        "targetPeriodStart": "2017-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4524cfc2dd47001117538c",
+                        "generationDate": "2020-02-13T10:27:33.238Z",
+                        "filename": "107281-04.2017-07.2017.csv",
+                        "targetPeriodStart": "2017-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4524cfc2dd47001117538b",
+                        "generationDate": "2020-02-13T10:27:33.704Z",
+                        "filename": "107281-07.2017-10.2017.csv",
+                        "targetPeriodStart": "2017-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4524cfc2dd47001117538a",
+                        "generationDate": "2020-02-13T10:27:34.724Z",
+                        "filename": "107281-10.2017-01.2018.csv",
+                        "targetPeriodStart": "2017-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4524cfc2dd470011175389",
+                        "generationDate": "2020-02-13T10:27:42.237Z",
+                        "filename": "107281-01.2018-04.2018.csv",
+                        "targetPeriodStart": "2018-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4524cfc2dd470011175388",
+                        "generationDate": "2020-02-13T10:27:48.812Z",
+                        "filename": "107281-04.2018-07.2018.csv",
+                        "targetPeriodStart": "2018-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4524cfc2dd470011175387",
+                        "generationDate": "2020-02-13T10:27:51.552Z",
+                        "filename": "107281-07.2018-10.2018.csv",
+                        "targetPeriodStart": "2018-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4524cfc2dd470011175386",
+                        "generationDate": "2020-02-13T10:27:57.249Z",
+                        "filename": "107281-10.2018-01.2019.csv",
+                        "targetPeriodStart": "2018-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4524cfc2dd470011175385",
+                        "generationDate": "2020-02-13T10:28:10.404Z",
+                        "filename": "107281-01.2019-04.2019.csv",
+                        "targetPeriodStart": "2019-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4524cfc2dd470011175384",
+                        "generationDate": "2020-02-13T10:28:17.020Z",
+                        "filename": "107281-04.2019-07.2019.csv",
+                        "targetPeriodStart": "2019-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4524cfc2dd470011175383",
+                        "generationDate": "2020-02-13T10:28:24.762Z",
+                        "filename": "107281-07.2019-10.2019.csv",
+                        "targetPeriodStart": "2019-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e4524cfc2dd470011175382",
+                        "generationDate": "2020-02-13T10:28:31.018Z",
+                        "filename": "107281-10.2019-01.2020.csv",
+                        "targetPeriodStart": "2019-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e8471c431ca8000115f2321",
+                        "generationDate": "2020-04-01T10:49:40.453Z",
+                        "filename": "107281-01.2020-04.2020.csv",
+                        "targetPeriodStart": "2020-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5efc695ec745ac001340c33f",
+                        "generationDate": "2020-07-01T10:45:50.541Z",
+                        "filename": "107281-04.2020-07.2020.csv",
+                        "targetPeriodStart": "2020-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f75b46d1e83150011ce8c99",
+                        "generationDate": "2020-10-01T10:50:21.405Z",
+                        "filename": "107281-07.2020-10.2020.csv",
+                        "targetPeriodStart": "2020-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5feefeb22923ff00111973f4",
+                        "generationDate": "2021-01-01T10:51:30.746Z",
+                        "filename": "107281-10.2020-01.2021.csv",
+                        "targetPeriodStart": "2020-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "6065a5c945c3260011c61256",
+                        "generationDate": "2021-04-01T10:51:53.212Z",
+                        "filename": "107281-01.2021-04.2021.csv",
+                        "targetPeriodStart": "2021-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-04-01T00:00:00.000Z",
+                        "available": true
+                  }
+            ],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULK_DOWNLOAD",
+                  "TIP_URL",
+                  "BULLETIN",
+                  "CAMERA_REGISTRATION"
+            ],
+            "agencyBadgeUrl": "",
+            "agencyName": "Hamilton County Sheriff",
+            "customTippingUrl": "",
+            "agencyPathName": "a6e1d369-e503-4c21-bf7e-701e3d3ff4eb",
+            "bulkDownload": true,
+            "tippingEnabled": false,
+            "_id": "5ce2bd6f3934cc0011eda621"
+      },
+      {
+            "id": "5ce2bd733934cc0011eda6c8",
+            "crapiId": "94486",
+            "name": "St. Joseph County Sheriff's Office",
+            "center": {
+                  "coordinates": [
+                        -86.253083,
+                        41.678041
+                  ],
+                  "_id": "5ee9eee64bd9f600130fc85e",
+                  "type": "Point"
+            },
+            "cameraPinLat": 41.7597,
+            "cameraPinLng": -86.5242,
+            "updatedAt": "2019-04-11T07:00:25.000Z",
+            "city": "South Bend",
+            "state": "IN",
+            "zip": "46601",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "co.st-joseph.in.us",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": null,
+            "reports": [],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULLETIN"
+            ],
+            "agencyBadgeUrl": "",
+            "agencyName": "St. Joseph County Sheriff's Office",
+            "customTippingUrl": "",
+            "agencyPathName": "c931d802-53ab-4975-867c-f2cfc3dc3b77",
+            "bulkDownload": false,
+            "tippingEnabled": false,
+            "_id": "5ce2bd733934cc0011eda6c8"
+      },
+      {
+            "id": "5ce2bd783934cc0011eda758",
+            "crapiId": "76513",
+            "name": "Mishawaka Police Department",
+            "center": {
+                  "coordinates": [
+                        -86.1798958,
+                        41.662983
+                  ],
+                  "_id": "5ee9f03909aac700133af9dd",
+                  "type": "Point"
+            },
+            "cameraPinLat": 41.7188,
+            "cameraPinLng": -86.1974,
+            "updatedAt": "2021-04-03T17:14:41.000Z",
+            "city": "Mishawaka",
+            "state": "IN",
+            "zip": "46544",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "MishawakaPD",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": "",
+            "reports": [
+                  {
+                        "_id": "5e8713c84e7b070011cb563f",
+                        "generationDate": "2020-04-03T10:45:07.974Z",
+                        "filename": "76513-01.2017-04.2017.csv",
+                        "targetPeriodStart": "2017-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e8713c84e7b070011cb563e",
+                        "generationDate": "2020-04-03T10:45:10.551Z",
+                        "filename": "76513-04.2017-07.2017.csv",
+                        "targetPeriodStart": "2017-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e8713c84e7b070011cb563d",
+                        "generationDate": "2020-04-03T10:45:12.992Z",
+                        "filename": "76513-07.2017-10.2017.csv",
+                        "targetPeriodStart": "2017-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e8713c84e7b070011cb563c",
+                        "generationDate": "2020-04-03T10:45:15.417Z",
+                        "filename": "76513-10.2017-01.2018.csv",
+                        "targetPeriodStart": "2017-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e8713c84e7b070011cb563b",
+                        "generationDate": "2020-04-03T10:45:17.922Z",
+                        "filename": "76513-01.2018-04.2018.csv",
+                        "targetPeriodStart": "2018-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e8713c84e7b070011cb563a",
+                        "generationDate": "2020-04-03T10:45:20.396Z",
+                        "filename": "76513-04.2018-07.2018.csv",
+                        "targetPeriodStart": "2018-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e8713c84e7b070011cb5639",
+                        "generationDate": "2020-04-03T10:45:22.805Z",
+                        "filename": "76513-07.2018-10.2018.csv",
+                        "targetPeriodStart": "2018-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e8713c84e7b070011cb5638",
+                        "generationDate": "2020-04-03T10:45:25.165Z",
+                        "filename": "76513-10.2018-01.2019.csv",
+                        "targetPeriodStart": "2018-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e8713c84e7b070011cb5637",
+                        "generationDate": "2020-04-03T10:45:26.569Z",
+                        "filename": "76513-01.2019-04.2019.csv",
+                        "targetPeriodStart": "2019-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e8713c84e7b070011cb5636",
+                        "generationDate": "2020-04-03T10:45:27.118Z",
+                        "filename": "76513-04.2019-07.2019.csv",
+                        "targetPeriodStart": "2019-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e8713c84e7b070011cb5635",
+                        "generationDate": "2020-04-03T10:45:27.688Z",
+                        "filename": "76513-07.2019-10.2019.csv",
+                        "targetPeriodStart": "2019-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e8713c84e7b070011cb5634",
+                        "generationDate": "2020-04-03T10:45:28.251Z",
+                        "filename": "76513-10.2019-01.2020.csv",
+                        "targetPeriodStart": "2019-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e8713c84e7b070011cb5633",
+                        "generationDate": "2020-04-03T10:45:28.813Z",
+                        "filename": "76513-01.2020-04.2020.csv",
+                        "targetPeriodStart": "2020-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5efc69ccc745ac001340c52f",
+                        "generationDate": "2020-07-01T10:47:40.262Z",
+                        "filename": "76513-04.2020-07.2020.csv",
+                        "targetPeriodStart": "2020-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f75b4ee1e83150011ce8ff0",
+                        "generationDate": "2020-10-01T10:52:30.482Z",
+                        "filename": "76513-07.2020-10.2020.csv",
+                        "targetPeriodStart": "2020-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5feeff482923ff00111977b5",
+                        "generationDate": "2021-01-01T10:54:00.266Z",
+                        "filename": "76513-10.2020-01.2021.csv",
+                        "targetPeriodStart": "2020-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "6065a69c45c3260011c61811",
+                        "generationDate": "2021-04-01T10:55:24.217Z",
+                        "filename": "76513-01.2021-04.2021.csv",
+                        "targetPeriodStart": "2021-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-04-01T00:00:00.000Z",
+                        "available": true
+                  }
+            ],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULK_DOWNLOAD",
+                  "TIP_URL",
+                  "BULLETIN"
+            ],
+            "agencyBadgeUrl": "https://agencyconfigurationprod.blob.core.windows.net/images/a0c6dfb4-d56c-4dec-ad0c-f30ccb1402bf",
+            "agencyName": "Mishawaka Police",
+            "customTippingUrl": "",
+            "agencyPathName": "mpd",
+            "bulkDownload": true,
+            "tippingEnabled": true,
+            "_id": "5ce2bd783934cc0011eda758"
+      },
+      {
+            "id": "5ce2bd793934cc0011eda794",
+            "crapiId": "72847",
+            "name": "South Bend Police Department",
+            "center": {
+                  "coordinates": [
+                        -86.249743,
+                        41.683297
+                  ],
+                  "_id": "5ee9f134f6ff0e00145224b1",
+                  "type": "Point"
+            },
+            "cameraPinLat": 41.7548,
+            "cameraPinLng": -86.3476,
+            "updatedAt": "2021-04-03T11:00:19.000Z",
+            "city": "South Bend",
+            "state": "IN",
+            "zip": "46601",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "southbendin.gov",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": null,
+            "reports": [],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULLETIN",
+                  "CAMERA_REGISTRATION"
+            ],
+            "agencyBadgeUrl": "",
+            "agencyName": "South Bend Police Department",
+            "customTippingUrl": "",
+            "agencyPathName": "eae7fee6-b5eb-41ca-87d7-bdd80571540d",
+            "bulkDownload": false,
+            "tippingEnabled": false,
+            "_id": "5ce2bd793934cc0011eda794"
+      },
+      {
+            "id": "5ce2bd7a3934cc0011eda79c",
+            "crapiId": "72472",
+            "name": "Westfield Police Department",
+            "center": {
+                  "coordinates": [
+                        -86.15014,
+                        40.041933
+                  ],
+                  "_id": "5ee9f1aef5796e00130ed3c6",
+                  "type": "Point"
+            },
+            "cameraPinLat": 40.0492,
+            "cameraPinLng": -86.2413,
+            "updatedAt": "2021-04-03T18:06:32.000Z",
+            "city": "Westfield",
+            "state": "IN",
+            "zip": "46074",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "westfield.in.gov",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": null,
+            "reports": [
+                  {
+                        "_id": "5e452b3cc2dd470011199bbf",
+                        "generationDate": "2020-02-13T10:55:07.592Z",
+                        "filename": "72472-01.2017-04.2017.csv",
+                        "targetPeriodStart": "2017-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452b3cc2dd470011199bbe",
+                        "generationDate": "2020-02-13T10:55:08.133Z",
+                        "filename": "72472-04.2017-07.2017.csv",
+                        "targetPeriodStart": "2017-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452b3cc2dd470011199bbd",
+                        "generationDate": "2020-02-13T10:55:08.692Z",
+                        "filename": "72472-07.2017-10.2017.csv",
+                        "targetPeriodStart": "2017-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452b3cc2dd470011199bbc",
+                        "generationDate": "2020-02-13T10:55:09.643Z",
+                        "filename": "72472-10.2017-01.2018.csv",
+                        "targetPeriodStart": "2017-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452b3cc2dd470011199bbb",
+                        "generationDate": "2020-02-13T10:55:16.268Z",
+                        "filename": "72472-01.2018-04.2018.csv",
+                        "targetPeriodStart": "2018-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452b3cc2dd470011199bba",
+                        "generationDate": "2020-02-13T10:55:21.848Z",
+                        "filename": "72472-04.2018-07.2018.csv",
+                        "targetPeriodStart": "2018-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452b3cc2dd470011199bb9",
+                        "generationDate": "2020-02-13T10:55:24.143Z",
+                        "filename": "72472-07.2018-10.2018.csv",
+                        "targetPeriodStart": "2018-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452b3cc2dd470011199bb8",
+                        "generationDate": "2020-02-13T10:55:30.008Z",
+                        "filename": "72472-10.2018-01.2019.csv",
+                        "targetPeriodStart": "2018-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452b3cc2dd470011199bb7",
+                        "generationDate": "2020-02-13T10:55:36.438Z",
+                        "filename": "72472-01.2019-04.2019.csv",
+                        "targetPeriodStart": "2019-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452b3cc2dd470011199bb6",
+                        "generationDate": "2020-02-13T10:55:42.923Z",
+                        "filename": "72472-04.2019-07.2019.csv",
+                        "targetPeriodStart": "2019-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452b3cc2dd470011199bb5",
+                        "generationDate": "2020-02-13T10:55:50.239Z",
+                        "filename": "72472-07.2019-10.2019.csv",
+                        "targetPeriodStart": "2019-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e452b3cc2dd470011199bb4",
+                        "generationDate": "2020-02-13T10:55:56.649Z",
+                        "filename": "72472-10.2019-01.2020.csv",
+                        "targetPeriodStart": "2019-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e84724a31ca8000115f511d",
+                        "generationDate": "2020-04-01T10:51:54.853Z",
+                        "filename": "72472-01.2020-04.2020.csv",
+                        "targetPeriodStart": "2020-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5efc69ddc745ac001340c5ad",
+                        "generationDate": "2020-07-01T10:47:57.581Z",
+                        "filename": "72472-04.2020-07.2020.csv",
+                        "targetPeriodStart": "2020-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f75b50f1e83150011ce9111",
+                        "generationDate": "2020-10-01T10:53:03.986Z",
+                        "filename": "72472-07.2020-10.2020.csv",
+                        "targetPeriodStart": "2020-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5feeff702923ff00111978bc",
+                        "generationDate": "2021-01-01T10:54:40.843Z",
+                        "filename": "72472-10.2020-01.2021.csv",
+                        "targetPeriodStart": "2020-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "6065a6df45c3260011c619b8",
+                        "generationDate": "2021-04-01T10:56:31.489Z",
+                        "filename": "72472-01.2021-04.2021.csv",
+                        "targetPeriodStart": "2021-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-04-01T00:00:00.000Z",
+                        "available": true
+                  }
+            ],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULK_DOWNLOAD",
+                  "TIP_URL",
+                  "BULLETIN",
+                  "CAMERA_REGISTRATION"
+            ],
+            "agencyBadgeUrl": "",
+            "agencyName": "Westfield Police Department IN",
+            "customTippingUrl": "",
+            "agencyPathName": "7cc4f8d1-96b8-4d8d-b511-e3ef59c02493",
+            "bulkDownload": true,
+            "tippingEnabled": false,
+            "_id": "5ce2bd7a3934cc0011eda79c"
+      },
+      {
+            "id": "5ce2bd7b3934cc0011eda7dc",
+            "crapiId": "67935",
+            "name": "University of Notre Dame",
+            "center": {
+                  "coordinates": [
+                        -86.23957817135009,
+                        41.7035058745176
+                  ],
+                  "_id": "5ee9f061f6ff0e001452248f",
+                  "type": "Point"
+            },
+            "cameraPinLat": 41.7236,
+            "cameraPinLng": -86.2669,
+            "updatedAt": "2021-04-03T18:18:33.000Z",
+            "city": "Notre Dame",
+            "state": "IN",
+            "zip": "46556",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "ndsp.nd.edu",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": null,
+            "reports": [],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULLETIN"
+            ],
+            "agencyBadgeUrl": "",
+            "agencyName": "University of Notre Dame",
+            "customTippingUrl": "",
+            "agencyPathName": "e665fc3a-f933-4446-a3fa-3fe45baf35d7",
+            "bulkDownload": false,
+            "tippingEnabled": false,
+            "_id": "5ce2bd7b3934cc0011eda7dc"
+      },
+      {
+            "id": "5ce2bd7d3934cc0011eda80a",
+            "crapiId": "62586",
+            "name": "Noblesville Police Department",
+            "center": {
+                  "coordinates": [
+                        -86.01406,
+                        40.0444
+                  ],
+                  "_id": "5ee9f07325654a00132a45c7",
+                  "type": "Point"
+            },
+            "cameraPinLat": 40.0907,
+            "cameraPinLng": -86.0856,
+            "updatedAt": "2021-04-03T18:06:32.000Z",
+            "city": "Noblesville",
+            "state": "IN",
+            "zip": "46060",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "noblesville.in.us",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": null,
+            "reports": [],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULLETIN",
+                  "CAMERA_REGISTRATION"
+            ],
+            "agencyBadgeUrl": "",
+            "agencyName": "Noblesville Police Department",
+            "customTippingUrl": "",
+            "agencyPathName": "3c31bbe9-e43b-4c94-8acc-5e3751947aa7",
+            "bulkDownload": false,
+            "tippingEnabled": false,
+            "_id": "5ce2bd7d3934cc0011eda80a"
+      },
+      {
+            "id": "5ce2bd8b3934cc0011eda9cb",
+            "crapiId": "11827",
+            "name": "Lafayette Police Department",
+            "center": {
+                  "coordinates": [
+                        -86.890639,
+                        40.417504
+                  ],
+                  "_id": "5ee9efe5a1c2480013def197",
+                  "type": "Point"
+            },
+            "cameraPinLat": 40.4502,
+            "cameraPinLng": -86.8938,
+            "updatedAt": "2021-04-03T16:15:52.000Z",
+            "city": "Lafayette",
+            "state": "IN",
+            "zip": "47901",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "lafayette.in.gov",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": null,
+            "reports": [
+                  {
+                        "_id": "5e45357cc2dd4700111d8100",
+                        "generationDate": "2020-02-13T11:38:13.341Z",
+                        "filename": "11827-01.2017-04.2017.csv",
+                        "targetPeriodStart": "2017-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e45357cc2dd4700111d80ff",
+                        "generationDate": "2020-02-13T11:38:22.122Z",
+                        "filename": "11827-04.2017-07.2017.csv",
+                        "targetPeriodStart": "2017-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e45357cc2dd4700111d80fe",
+                        "generationDate": "2020-02-13T11:38:31.981Z",
+                        "filename": "11827-07.2017-10.2017.csv",
+                        "targetPeriodStart": "2017-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e45357cc2dd4700111d80fd",
+                        "generationDate": "2020-02-13T11:38:39.938Z",
+                        "filename": "11827-10.2017-01.2018.csv",
+                        "targetPeriodStart": "2017-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e45357cc2dd4700111d80fc",
+                        "generationDate": "2020-02-13T11:38:47.967Z",
+                        "filename": "11827-01.2018-04.2018.csv",
+                        "targetPeriodStart": "2018-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e45357cc2dd4700111d80fb",
+                        "generationDate": "2020-02-13T11:38:55.003Z",
+                        "filename": "11827-04.2018-07.2018.csv",
+                        "targetPeriodStart": "2018-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e45357cc2dd4700111d80fa",
+                        "generationDate": "2020-02-13T11:39:00.946Z",
+                        "filename": "11827-07.2018-10.2018.csv",
+                        "targetPeriodStart": "2018-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e45357cc2dd4700111d80f9",
+                        "generationDate": "2020-02-13T11:39:09.176Z",
+                        "filename": "11827-10.2018-01.2019.csv",
+                        "targetPeriodStart": "2018-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e45357cc2dd4700111d80f8",
+                        "generationDate": "2020-02-13T11:39:17.623Z",
+                        "filename": "11827-01.2019-04.2019.csv",
+                        "targetPeriodStart": "2019-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e45357cc2dd4700111d80f7",
+                        "generationDate": "2020-02-13T11:39:24.815Z",
+                        "filename": "11827-04.2019-07.2019.csv",
+                        "targetPeriodStart": "2019-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e45357cc2dd4700111d80f6",
+                        "generationDate": "2020-02-13T11:39:33.296Z",
+                        "filename": "11827-07.2019-10.2019.csv",
+                        "targetPeriodStart": "2019-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e45357cc2dd4700111d80f5",
+                        "generationDate": "2020-02-13T11:39:40.503Z",
+                        "filename": "11827-10.2019-01.2020.csv",
+                        "targetPeriodStart": "2019-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e84730031ca8000115fad2f",
+                        "generationDate": "2020-04-01T10:54:56.900Z",
+                        "filename": "11827-01.2020-04.2020.csv",
+                        "targetPeriodStart": "2020-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5efc6a8ec745ac001340ca51",
+                        "generationDate": "2020-07-01T10:50:54.983Z",
+                        "filename": "11827-04.2020-07.2020.csv",
+                        "targetPeriodStart": "2020-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f75b5da1e83150011ce993a",
+                        "generationDate": "2020-10-01T10:56:26.518Z",
+                        "filename": "11827-07.2020-10.2020.csv",
+                        "targetPeriodStart": "2020-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5fef00492923ff00111980cb",
+                        "generationDate": "2021-01-01T10:58:17.671Z",
+                        "filename": "11827-10.2020-01.2021.csv",
+                        "targetPeriodStart": "2020-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "6065a82145c3260011c623e2",
+                        "generationDate": "2021-04-01T11:01:53.963Z",
+                        "filename": "11827-01.2021-04.2021.csv",
+                        "targetPeriodStart": "2021-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-04-01T00:00:00.000Z",
+                        "available": true
+                  }
+            ],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULK_DOWNLOAD",
+                  "TIP_URL",
+                  "BULLETIN",
+                  "CAMERA_REGISTRATION"
+            ],
+            "agencyBadgeUrl": "https://agencyconfigurationprod.blob.core.windows.net/images/1fc6d826-c56f-4256-acc2-9f7c657681a4",
+            "agencyName": "Lafayette IN Police Department",
+            "customTippingUrl": "",
+            "agencyPathName": "lafayetteinpd",
+            "bulkDownload": true,
+            "tippingEnabled": true,
+            "_id": "5ce2bd8b3934cc0011eda9cb"
+      },
+      {
+            "id": "5ce2bd9b3934cc0011edac1d",
+            "crapiId": "989",
+            "name": "Hammond Police Department",
+            "center": {
+                  "coordinates": [
+                        -87.504957,
+                        41.609122
+                  ],
+                  "_id": "5ee9ef9bf1da180013ccbd88",
+                  "type": "Point"
+            },
+            "cameraPinLat": 41.717,
+            "cameraPinLng": -87.5242,
+            "updatedAt": "2021-03-09T21:40:52.000Z",
+            "city": "hammond",
+            "state": "IN",
+            "zip": "46320",
+            "type": "Police Dept",
+            "email": "rgrasha@hammondpolice.com",
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "hammondpolice.com",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": null,
+            "reports": [
+                  {
+                        "_id": "5e454dacc2dd47001126a992",
+                        "generationDate": "2020-02-13T13:22:25.370Z",
+                        "filename": "989-01.2017-04.2017.csv",
+                        "targetPeriodStart": "2017-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e454dacc2dd47001126a991",
+                        "generationDate": "2020-02-13T13:22:27.944Z",
+                        "filename": "989-04.2017-07.2017.csv",
+                        "targetPeriodStart": "2017-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e454dacc2dd47001126a990",
+                        "generationDate": "2020-02-13T13:22:30.601Z",
+                        "filename": "989-07.2017-10.2017.csv",
+                        "targetPeriodStart": "2017-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e454dacc2dd47001126a98f",
+                        "generationDate": "2020-02-13T13:22:33.094Z",
+                        "filename": "989-10.2017-01.2018.csv",
+                        "targetPeriodStart": "2017-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e454dacc2dd47001126a98e",
+                        "generationDate": "2020-02-13T13:22:35.154Z",
+                        "filename": "989-01.2018-04.2018.csv",
+                        "targetPeriodStart": "2018-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e454dacc2dd47001126a98d",
+                        "generationDate": "2020-02-13T13:22:37.576Z",
+                        "filename": "989-04.2018-07.2018.csv",
+                        "targetPeriodStart": "2018-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e454dacc2dd47001126a98c",
+                        "generationDate": "2020-02-13T13:22:39.653Z",
+                        "filename": "989-07.2018-10.2018.csv",
+                        "targetPeriodStart": "2018-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e454dacc2dd47001126a98b",
+                        "generationDate": "2020-02-13T13:22:42.021Z",
+                        "filename": "989-10.2018-01.2019.csv",
+                        "targetPeriodStart": "2018-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e454dacc2dd47001126a98a",
+                        "generationDate": "2020-02-13T13:22:44.784Z",
+                        "filename": "989-01.2019-04.2019.csv",
+                        "targetPeriodStart": "2019-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e454dacc2dd47001126a989",
+                        "generationDate": "2020-02-13T13:22:47.404Z",
+                        "filename": "989-04.2019-07.2019.csv",
+                        "targetPeriodStart": "2019-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e454dacc2dd47001126a988",
+                        "generationDate": "2020-02-13T13:22:49.862Z",
+                        "filename": "989-07.2019-10.2019.csv",
+                        "targetPeriodStart": "2019-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e454dacc2dd47001126a987",
+                        "generationDate": "2020-02-13T13:22:52.285Z",
+                        "filename": "989-10.2019-01.2020.csv",
+                        "targetPeriodStart": "2019-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5e85c2c4550b0a00116012a4",
+                        "generationDate": "2020-04-02T10:47:32.536Z",
+                        "filename": "989-01.2020-04.2020.csv",
+                        "targetPeriodStart": "2020-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5efc6c20c745ac001340d276",
+                        "generationDate": "2020-07-01T10:57:36.869Z",
+                        "filename": "989-04.2020-07.2020.csv",
+                        "targetPeriodStart": "2020-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f75b77b1e83150011cea573",
+                        "generationDate": "2020-10-01T11:03:23.097Z",
+                        "filename": "989-07.2020-10.2020.csv",
+                        "targetPeriodStart": "2020-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5fef023e2923ff0011198e1a",
+                        "generationDate": "2021-01-01T11:06:38.186Z",
+                        "filename": "989-10.2020-01.2021.csv",
+                        "targetPeriodStart": "2020-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "6065aab545c3260011c62f19",
+                        "generationDate": "2021-04-01T11:12:53.207Z",
+                        "filename": "989-01.2021-04.2021.csv",
+                        "targetPeriodStart": "2021-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-04-01T00:00:00.000Z",
+                        "available": true
+                  }
+            ],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULK_DOWNLOAD",
+                  "TIP_URL",
+                  "BULLETIN",
+                  "CAMERA_REGISTRATION"
+            ],
+            "agencyBadgeUrl": "",
+            "agencyName": "Hammond Police Department",
+            "customTippingUrl": "",
+            "agencyPathName": "4965c497-6cb1-4272-90e7-ac8c93d5b6b4",
+            "bulkDownload": true,
+            "tippingEnabled": false,
+            "_id": "5ce2bd9b3934cc0011edac1d"
+      },
+      {
+            "id": "5ce2bd9c3934cc0011edac3c",
+            "crapiId": "947",
+            "name": "Porter Police Department",
+            "center": {
+                  "coordinates": [
+                        -87.072446,
+                        41.615923
+                  ],
+                  "_id": "5ee9f17376109b0013199428",
+                  "type": "Point"
+            },
+            "cameraPinLat": 41.6671,
+            "cameraPinLng": -87.077,
+            "updatedAt": "2020-05-05T15:49:26.000Z",
+            "city": "PORTER",
+            "state": "IN",
+            "zip": "46304",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "townofporter.com",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": null,
+            "reports": [],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULLETIN"
+            ],
+            "agencyBadgeUrl": "",
+            "agencyName": "Porter Police Department",
+            "customTippingUrl": "",
+            "agencyPathName": "13a39ccb-b1e7-465f-8cb7-4d8215ef2ec6",
+            "bulkDownload": false,
+            "tippingEnabled": false,
+            "_id": "5ce2bd9c3934cc0011edac3c"
+      },
+      {
+            "id": "5ce2bd9d3934cc0011edac68",
+            "crapiId": "883",
+            "name": "City of Portage",
+            "center": {
+                  "coordinates": [
+                        -87.1722037,
+                        41.5765028
+                  ],
+                  "_id": "5ee9f0ba09aac700133af9fe",
+                  "type": "Point"
+            },
+            "cameraPinLat": 41.6337,
+            "cameraPinLng": -87.2188,
+            "updatedAt": "2020-05-05T06:35:25.000Z",
+            "city": "Portage",
+            "state": "IN",
+            "zip": "46368",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "portage-in.com",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": null,
+            "reports": [],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULLETIN"
+            ],
+            "agencyBadgeUrl": "",
+            "agencyName": "City of Portage",
+            "customTippingUrl": "",
+            "agencyPathName": "5387f5c1-9c77-43c3-9601-f1ea47c9ff46",
+            "bulkDownload": false,
+            "tippingEnabled": false,
+            "_id": "5ce2bd9d3934cc0011edac68"
+      },
+      {
+            "id": "5da8b9ae3b73c40011708e0e",
+            "crapiId": "270",
+            "name": "Lawrence Police Department",
+            "center": {
+                  "coordinates": [
+                        -86.042347,
+                        39.841232
+                  ],
+                  "_id": "5ee9ee8f0e5b2f0013185386",
+                  "type": "Point"
+            },
+            "cameraPinLat": 39.8762,
+            "cameraPinLng": -86.0355,
+            "updatedAt": "2021-04-03T18:02:57.000Z",
+            "city": "Lawrence",
+            "state": "IN",
+            "zip": "46226",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "cityoflawrence.org",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": "LawrenceIN",
+            "reports": [
+                  {
+                        "_id": "5f4a321bdc64b9001185152b",
+                        "generationDate": "2020-08-29T10:45:48.611Z",
+                        "filename": "270-01.2017-04.2017.csv",
+                        "targetPeriodStart": "2017-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f4a321bdc64b9001185152c",
+                        "generationDate": "2020-08-29T10:45:49.306Z",
+                        "filename": "270-04.2017-07.2017.csv",
+                        "targetPeriodStart": "2017-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f4a321bdc64b9001185152d",
+                        "generationDate": "2020-08-29T10:45:50.491Z",
+                        "filename": "270-07.2017-10.2017.csv",
+                        "targetPeriodStart": "2017-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f4a321bdc64b9001185152e",
+                        "generationDate": "2020-08-29T10:45:51.566Z",
+                        "filename": "270-10.2017-01.2018.csv",
+                        "targetPeriodStart": "2017-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f4a321bdc64b9001185152f",
+                        "generationDate": "2020-08-29T10:45:52.531Z",
+                        "filename": "270-01.2018-04.2018.csv",
+                        "targetPeriodStart": "2018-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f4a321bdc64b90011851530",
+                        "generationDate": "2020-08-29T10:45:53.117Z",
+                        "filename": "270-04.2018-07.2018.csv",
+                        "targetPeriodStart": "2018-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f4a321bdc64b90011851531",
+                        "generationDate": "2020-08-29T10:45:54.077Z",
+                        "filename": "270-07.2018-10.2018.csv",
+                        "targetPeriodStart": "2018-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f4a321bdc64b90011851532",
+                        "generationDate": "2020-08-29T10:45:55.034Z",
+                        "filename": "270-10.2018-01.2019.csv",
+                        "targetPeriodStart": "2018-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f4a321bdc64b90011851533",
+                        "generationDate": "2020-08-29T10:46:03.069Z",
+                        "filename": "270-01.2019-04.2019.csv",
+                        "targetPeriodStart": "2019-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f4a321bdc64b90011851534",
+                        "generationDate": "2020-08-29T10:46:12.749Z",
+                        "filename": "270-04.2019-07.2019.csv",
+                        "targetPeriodStart": "2019-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f4a321bdc64b90011851535",
+                        "generationDate": "2020-08-29T10:46:23.866Z",
+                        "filename": "270-07.2019-10.2019.csv",
+                        "targetPeriodStart": "2019-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f4a321bdc64b90011851536",
+                        "generationDate": "2020-08-29T10:46:33.987Z",
+                        "filename": "270-10.2019-01.2020.csv",
+                        "targetPeriodStart": "2019-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f4a321bdc64b90011851537",
+                        "generationDate": "2020-08-29T10:46:43.609Z",
+                        "filename": "270-01.2020-04.2020.csv",
+                        "targetPeriodStart": "2020-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f4a321bdc64b90011851538",
+                        "generationDate": "2020-08-29T10:46:51.550Z",
+                        "filename": "270-04.2020-07.2020.csv",
+                        "targetPeriodStart": "2020-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f75b9b61e83150011ceae6c",
+                        "generationDate": "2020-10-01T11:12:54.624Z",
+                        "filename": "270-07.2020-10.2020.csv",
+                        "targetPeriodStart": "2020-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5fef04ca2923ff0011199738",
+                        "generationDate": "2021-01-01T11:17:30.924Z",
+                        "filename": "270-10.2020-01.2021.csv",
+                        "targetPeriodStart": "2020-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "6065ae0345c3260011c638af",
+                        "generationDate": "2021-04-01T11:26:59.656Z",
+                        "filename": "270-01.2021-04.2021.csv",
+                        "targetPeriodStart": "2021-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-04-01T00:00:00.000Z",
+                        "available": true
+                  }
+            ],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULK_DOWNLOAD",
+                  "TIP_URL",
+                  "BULLETIN",
+                  "CAMERA_REGISTRATION"
+            ],
+            "agencyBadgeUrl": "https://agencyconfigurationprod.blob.core.windows.net/images/18790eb7-350a-45ac-bf0f-655bd0123977",
+            "agencyName": "Lawrence Police Department",
+            "customTippingUrl": "",
+            "agencyPathName": "lpd",
+            "bulkDownload": true,
+            "tippingEnabled": false,
+            "_id": "5da8b9ae3b73c40011708e0e"
+      },
+      {
+            "id": "5e30bea879e294001182a0c4",
+            "crapiId": "851",
+            "name": "Greensburg Police Department",
+            "center": {
+                  "coordinates": [
+                        -85.484742,
+                        39.335182
+                  ],
+                  "_id": "5ee9ef8f09aac700133af9ba",
+                  "type": "Point"
+            },
+            "cameraPinLat": 39.3873,
+            "cameraPinLng": -85.5505,
+            "updatedAt": "2020-12-01T06:16:00.000Z",
+            "city": "Greensburg",
+            "state": "IN",
+            "zip": "47240",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "greensburg.in.gov",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": "GreensburgIN",
+            "reports": [],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULLETIN"
+            ],
+            "agencyBadgeUrl": "",
+            "agencyName": "GREENSBURG POLICE DEPT",
+            "customTippingUrl": "",
+            "agencyPathName": "f58da0db-3507-453b-ba88-7f410bc30953",
+            "bulkDownload": false,
+            "tippingEnabled": false,
+            "_id": "5e30bea879e294001182a0c4"
+      },
+      {
+            "id": "5eb1f1dded18ec001339abc8",
+            "crapiId": "112410",
+            "name": "Speedway Police Department",
+            "center": {
+                  "coordinates": [
+                        -86.251097,
+                        39.785613
+                  ],
+                  "_id": "5ee9f13876109b0013199419",
+                  "type": "Point"
+            },
+            "cameraPinLat": 39.8093,
+            "cameraPinLng": -86.2753,
+            "updatedAt": "2021-04-03T18:05:29.000Z",
+            "city": "Speedway",
+            "state": "IN",
+            "zip": "46224",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "speedwayin.gov",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": "SpeedwayIN",
+            "reports": [
+                  {
+                        "_id": "5f1819b97434010013f543f9",
+                        "generationDate": "2020-07-22T10:49:23.828Z",
+                        "filename": "112410-01.2017-04.2017.csv",
+                        "targetPeriodStart": "2017-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f1819b97434010013f543fa",
+                        "generationDate": "2020-07-22T10:49:24.254Z",
+                        "filename": "112410-04.2017-07.2017.csv",
+                        "targetPeriodStart": "2017-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f1819b97434010013f543fb",
+                        "generationDate": "2020-07-22T10:49:24.731Z",
+                        "filename": "112410-07.2017-10.2017.csv",
+                        "targetPeriodStart": "2017-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2017-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f1819b97434010013f543fc",
+                        "generationDate": "2020-07-22T10:49:25.039Z",
+                        "filename": "112410-10.2017-01.2018.csv",
+                        "targetPeriodStart": "2017-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f1819b97434010013f543fd",
+                        "generationDate": "2020-07-22T10:49:25.348Z",
+                        "filename": "112410-01.2018-04.2018.csv",
+                        "targetPeriodStart": "2018-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f1819b97434010013f543fe",
+                        "generationDate": "2020-07-22T10:49:25.737Z",
+                        "filename": "112410-04.2018-07.2018.csv",
+                        "targetPeriodStart": "2018-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f1819b97434010013f543ff",
+                        "generationDate": "2020-07-22T10:49:26.162Z",
+                        "filename": "112410-07.2018-10.2018.csv",
+                        "targetPeriodStart": "2018-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2018-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f1819b97434010013f54400",
+                        "generationDate": "2020-07-22T10:49:26.556Z",
+                        "filename": "112410-10.2018-01.2019.csv",
+                        "targetPeriodStart": "2018-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f1819b97434010013f54401",
+                        "generationDate": "2020-07-22T10:49:26.956Z",
+                        "filename": "112410-01.2019-04.2019.csv",
+                        "targetPeriodStart": "2019-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f1819b97434010013f54402",
+                        "generationDate": "2020-07-22T10:49:27.349Z",
+                        "filename": "112410-04.2019-07.2019.csv",
+                        "targetPeriodStart": "2019-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f1819b97434010013f54403",
+                        "generationDate": "2020-07-22T10:49:27.817Z",
+                        "filename": "112410-07.2019-10.2019.csv",
+                        "targetPeriodStart": "2019-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2019-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f1819b97434010013f54404",
+                        "generationDate": "2020-07-22T10:49:28.226Z",
+                        "filename": "112410-10.2019-01.2020.csv",
+                        "targetPeriodStart": "2019-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f1819b97434010013f54405",
+                        "generationDate": "2020-07-22T10:49:28.621Z",
+                        "filename": "112410-01.2020-04.2020.csv",
+                        "targetPeriodStart": "2020-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-04-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f1819b97434010013f54406",
+                        "generationDate": "2020-07-22T10:49:29.580Z",
+                        "filename": "112410-04.2020-07.2020.csv",
+                        "targetPeriodStart": "2020-04-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-07-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5f75b9f41e83150011ceaed5",
+                        "generationDate": "2020-10-01T11:13:56.144Z",
+                        "filename": "112410-07.2020-10.2020.csv",
+                        "targetPeriodStart": "2020-07-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2020-10-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "5fef05152923ff00111997b8",
+                        "generationDate": "2021-01-01T11:18:45.949Z",
+                        "filename": "112410-10.2020-01.2021.csv",
+                        "targetPeriodStart": "2020-10-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-01-01T00:00:00.000Z",
+                        "available": true
+                  },
+                  {
+                        "_id": "6065aece45c3260011c63ab9",
+                        "generationDate": "2021-04-01T11:30:22.922Z",
+                        "filename": "112410-01.2021-04.2021.csv",
+                        "targetPeriodStart": "2021-01-01T00:00:00.000Z",
+                        "targetPeriodEnd": "2021-04-01T00:00:00.000Z",
+                        "available": true
+                  }
+            ],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULK_DOWNLOAD",
+                  "TIP_URL",
+                  "BULLETIN",
+                  "CAMERA_REGISTRATION"
+            ],
+            "agencyBadgeUrl": "https://agencyconfigurationprod.blob.core.windows.net/images/8f713b7d-a60d-43d7-a943-60e5eabe7a5e",
+            "agencyName": "Speedway Police Department",
+            "customTippingUrl": "",
+            "agencyPathName": "speedwayin",
+            "bulkDownload": true,
+            "tippingEnabled": true,
+            "_id": "5eb1f1dded18ec001339abc8"
+      },
+      {
+            "id": "5efbc274c745ac00133f7e9d",
+            "crapiId": "112400",
+            "name": "Bloomington Police Department",
+            "center": {
+                  "coordinates": [
+                        -86.531549,
+                        39.164599
+                  ],
+                  "_id": "5ee9eddf76109b0013198ef8",
+                  "type": "Point"
+            },
+            "cameraPinLat": 39.217,
+            "cameraPinLng": -86.5523,
+            "updatedAt": "2021-04-03T18:18:41.000Z",
+            "city": "Bloomington",
+            "state": "IN",
+            "zip": "47401",
+            "type": "Police Dept",
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "bloomington.in.gov",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": "",
+            "reports": [],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULLETIN"
+            ],
+            "agencyBadgeUrl": "",
+            "agencyName": "BLOOMINGTON POLICE DEPT, CITY OF",
+            "customTippingUrl": "",
+            "agencyPathName": "8f17da7e-0c1e-4218-82b0-4eb80d912537",
+            "bulkDownload": false,
+            "tippingEnabled": true,
+            "_id": "5efbc274c745ac00133f7e9d"
+      },
+      {
+            "id": "5ffc5682ac56690011dfeb85",
+            "name": "City of Fort Wayne",
+            "center": {
+                  "coordinates": [
+                        0,
+                        0
+                  ],
+                  "type": "Point"
+            },
+            "cameraPinLat": null,
+            "cameraPinLng": null,
+            "updatedAt": null,
+            "city": "Fort Wayne",
+            "state": "IN",
+            "zip": "46803",
+            "type": null,
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "cityoffortwayne.org",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": null,
+            "reports": [],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "UPLOAD",
+                  "DIGITAL_EVIDENCE",
+                  "BULLETIN",
+                  "AGENCY_MAP_INCIDENTS",
+                  "AGENCY_MAP_SEXOFFENDERS",
+                  "AGENCY_PAGE",
+                  "BULK_DOWNLOAD",
+                  "TIP_URL",
+                  "POLICE_REPORT",
+                  "NON_EMERGENCY_REQUEST",
+                  "PUBLIC_RECORDS_REQUEST",
+                  "CAMERA_REGISTRATION"
+            ],
+            "agencyBadgeUrl": null,
+            "agencyName": "City of Fort Wayne",
+            "customTippingUrl": null,
+            "agencyPathName": null,
+            "bulkDownload": false,
+            "tippingEnabled": true,
+            "_id": "5ffc5682ac56690011dfeb85"
+      },
+      {
+            "id": "5ffc569bac56690011dffd8f",
+            "name": "PERRY TOWNSHIP SCHOOLS",
+            "center": {
+                  "coordinates": [
+                        -86.13586,
+                        39.67146
+                  ],
+                  "_id": "5ee9f0a009aac700133af9f5",
+                  "type": "Point"
+            },
+            "cameraPinLat": null,
+            "cameraPinLng": null,
+            "updatedAt": null,
+            "city": "INDIANAPOLIS",
+            "state": "IN",
+            "zip": "46227",
+            "type": null,
+            "email": null,
+            "county": null,
+            "address1": null,
+            "address2": null,
+            "customerId": "perryschools.org",
+            "isSandboxAgency": false,
+            "sandboxAgencyName": null,
+            "reports": [],
+            "features": [
+                  "FORMS_MANAGEMENT",
+                  "TIP_SUBMIT_BASIC_CONFIGURATION",
+                  "AGENCY_MAP",
+                  "TIPPING",
+                  "UPLOAD",
+                  "DIGITAL_EVIDENCE",
+                  "BULLETIN",
+                  "AGENCY_PAGE",
+                  "BULK_DOWNLOAD",
+                  "TIP_URL"
+            ],
+            "agencyBadgeUrl": "https://agencyconfigurationprod.blob.core.windows.net/images/1f02d7a9-a664-4204-822c-df46035a1705",
+            "agencyName": "Perry Township Schools",
+            "customTippingUrl": "",
+            "agencyPathName": "perryschools",
+            "bulkDownload": false,
+            "tippingEnabled": true,
+            "_id": "5ffc569bac56690011dffd8f"
+      }
+]
