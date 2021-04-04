@@ -15,3 +15,13 @@ json_resp = json.loads(response.text)
 
 # 1092 agencies
 print("Total Fetched: " + str(len(json_resp['result']['list'])))
+
+bulk_y = 0
+bulk_n = 0
+
+for agency in json_resp["result"]["list"]:
+    if agency['bulkDownload']: bulk_y += 1
+    else: bulk_n += 1
+
+# 355 yes, 722 no
+print("Agencies with Bulk Download: {} Yes and {} No".format(bulk_y, bulk_n))
